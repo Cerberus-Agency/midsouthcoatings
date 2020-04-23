@@ -4,17 +4,22 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const pluginSEO = require("eleventy-plugin-seo");
 
 module.exports = function(eleventyConfig) {
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
-  // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
-  // layout aliases! Say you have a bunch of existing content using
-  // layout: post. If you don’t want to rewrite all of those values, just map
-  // post to a new file like this:
-  // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
+  eleventyConfig.addPlugin(pluginSEO, {
+  title: "MidSouth Coatings",
+  description: "COOLWALL&reg; is a next-gen exterior coating that looks great, for life. Available in over 570 beautifully heat reflective hues, these colors are guaranteed to last a lifetime.",
+  url: "https://midsouthcoatings.com",
+  author: "MidSouth Coatings",
+  twitter: "username",
+  image: "/static/img/logo-msc.jpg"
+});
+
 
   // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/
