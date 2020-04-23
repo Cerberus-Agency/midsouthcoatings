@@ -2,14 +2,29 @@
 layout: layouts/contact.njk
 title: Get in touch
 section: contact
-date: 2018-01-01
+date: 2020-04-15
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
-  order: 3
+  order: 9
 ---
-The contact form on this page uses
-[Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-submissions, and saves them in the connected Netlify account where
-notifications can optionally be configured. Each submission is passed through a
-spam filter and if flagged, will display a CAPTCHA challenge to the user.
+
+#GET A QUOTE IN UNDER 24 HOURS 
+
+TO CONTACT US, OR TO SCHEDULE A FREE IN-HOME CONSULTATION, CALL (855) 828-2683, EMAIL KEVIN@MIDSOUTHCOATINGS.COM OR COMPLETE THE FOLLOWING FORM:
+
+FIELD:	#First and Last Name, #Email Address, #Zip Code, #Phone
+	#Message
+
+TOGGLE:	#Residential, #Commercial, #Decking
+
+BUTTON:	SEND 
+
+SUB:	ASK ABOUT OUR EASY FINANCE OPTIONS.
+
+COPY:	MidSouth Coatings is pleased to accept personal checks, all major credit cards, or cash payments. We also offer convenient finance options, including 12 months, same as cash. Give us a call to discuss which options work best for you.
+
+
+MAP:	Google Map
+ADDRESS:	4636 Sanford Street 
+Metairie, LA 70006

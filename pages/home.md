@@ -1,20 +1,14 @@
 ---
 layout: layouts/home.njk
 title: Home
-date: 2016-01-01T00:00:00.000Z
+date: 2020-04-15
+bodyClass: home
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+# FIND YOUR COOLWALL<sup>®</sup> COLOR (2.0) 
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
-
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+Much more than just another over-priced house paint, COOLWALL&reg; is a next-gen exterior coating (3.0) that looks great, for life. Available in over 570 beautifully heat reflective hues, these colors are guaranteed to last a lifetime (3.1). COOLWALL&reg; advanced technology is specially formulated to reflect the sun’s heat virtually eliminating color fade and have even been proven to lower home energy usage (3.2). Best of all, your color will look just as beautiful 40 years from now as it does the day it’s applied. MidSouth Coatings is the region’s (4.0) premier provider of COOLWALL&reg; and has earned consistently positive reviews (6.0) for its residential (4.1) and commercial (4.2) applications.
