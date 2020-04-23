@@ -3,14 +3,10 @@
 
 	{% include "components/head.njk" %}
 
-	<body>
-
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
-		</header>
+	<body class="{% if pageType %}{{ pageType }} {{ pageType }}__{{ page.fileSlug }}{% endif %} {{ pageClasses }}">
+		
+	    {% include "components/header.njk" %}
+	    {% include "components/nav.njk" %}
 
 		<main>
 			{{ layoutContent | safe }}

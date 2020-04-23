@@ -7,3 +7,14 @@ if (window.netlifyIdentity) {
     }
   });
 }
+
+$(document).ready(function(){
+	console.log("ready");
+  var $hamburger = $(".hamburger");
+  $hamburger.on("click", function(e) {
+  	console.log("ouch!");
+    $hamburger.toggleClass("is-active");
+    // Do something else, like open/close menu
+    $("nav").toggleClass("is-active");
+	});
+});
