@@ -1,7 +1,7 @@
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--primary: #582C83;
+	--secondary: black;
+	--background: white;
 }
 
 *, *:before, *:after {
@@ -12,7 +12,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -26,10 +26,15 @@ main {
 	max-width: 37.5em;
 }
 
-p,
-pre,
-code {
-	line-height: 1.5;
+p {
+	line-height: 2;
+}
+
+h1 {
+	color: var(--background);
+	font-family: 'Tenor Sans', sans-serif;
+	line-height: 1.2;
+	text-shadow: 2px 0px 6px rgba(0,0,0,0.6);
 }
 
 a[href],
@@ -47,33 +52,6 @@ footer {
 	padding: 1em;
 }
 
-main {
-	padding-bottom: 2em;
-}
-
-main :first-child,
-main > article :first-child {
-	margin-top: 0;
-}
-
-pre {
-	font-size: 14px;
-	direction: ltr;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	-moz-tab-size: 2;
-	tab-size: 2;
-	-webkit-hyphens: none;
-	-moz-hyphens: none;
-	-ms-hyphens: none;
-	hyphens: none;
-	padding: 1em;
-	margin: .5em 0;
-}
-
-/* Header Logo (style as h2) */
 header > em {
 	display: block;
 	font-size: 2em;
@@ -82,74 +60,80 @@ header > em {
 	font-style: normal;
 }
 
-/* Header Nav */
-header nav ul {
+.social, .main-nav {
+	display: flex;
+	justify-content: space-between;
+	margin: .5em 0;
+}
+
+.mainlink img {
+	height: 60px;
+}
+
+a.icon {
+	background: #666666;
+	border-radius: 12px;
+	display: inline-block;
+	height: 24px;
+	width: 24px;
+	color: white;
+	font-weight: bold;
+	padding-top: 3px;
+	text-align: center;
+}
+
+.mobile-menu {
+	margin-top: .8em;
+}
+
+/******* HEADER NAV *******/
+
+nav {
+	background-color: white;
+	position: absolute;
+	top: 8em;
+	transform: translateX(-110%);
+	transition: all .5s;
+	width: 100%;
+}
+
+nav.is-active {
+	transform: translateX(0);
+}
+
+
+nav ul {
 	padding: 0;
 	list-style: none;
 }
 
-header nav ul :first-child {
-	margin-left: 0;
+nav li {
+	display: block;
+	margin: 1em 0;
 }
 
-header nav li {
-	display: inline-block;
-	margin: 0 .25em;
+nav li:has(> ul) {
+	background: red;
 }
 
-header nav li a {
+nav li a {
+	font-family: 'Tenor Sans', sans-serif;
+	color: black;
 	padding: .25em .5em;
-	border-radius: .25em;
+	text-transform: uppercase;
 }
 
-header nav li a[href]:not(:hover) {
+nav li a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header nav li a[data-current="current item"] {
+nav li a[data-current="current item"] {
 	background-color: white;
 }
 
-/* Posts List */
-article {
-	margin-bottom: 1em;
-	padding-bottom: 1em;
-	border-bottom: 1px solid #eee;
-	border-bottom: 1px solid var(--secondary);
-}
-
-main > section > article > * {
-	margin-top: 0;
-	margin-bottom: .5em;
-}
-
-/* Post Tags */
-a[rel="tag"],
-a[rel="tag"]:visited {
-	display: inline-block;
-  vertical-align: text-top;
-  text-transform: uppercase;
-	letter-spacing: .1em;
-  font-size: .625em;
-  padding: 0 .5em;
-	line-height: 2em;
-	height: 2em;
-  border: 1px solid var(--secondary);
-	background-color: var(--secondary);
-	color: var(--primary);
-  border-radius: .25em;
-  text-decoration: none;
-	margin: 0 .5em .5em 0;
-}
-
-a[rel="tag"]:hover {
-	border: 1px solid var(--primary);
-	background-color: var(--primary);
-	color: var(--secondary);
-}
-
-a[rel="tag"]:last-child {
-	margin-right: 0;
+nav li ul {
+	display: none;
+	margin-left: 1em;
 }
 
 /* Contact Form */
@@ -169,7 +153,7 @@ button {
   padding: 1em;
   margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
+	font-family: "Roboto", sans-serif;
 }
 
 input,
@@ -184,8 +168,112 @@ button {
 	cursor: pointer;
 }
 
+main {
+	padding-bottom: 2em;
+}
+
+main :first-child,
+main > article :first-child {
+	margin-top: 0;
+}
+
+.hero h1 {
+	padding-bottom: 80vh;
+}
+
+.page__difference main {
+	background: url(/static/img/MSC-coolwallapps-hero-MOBILE.jpg);
+}
+
+.page__difference main, .page__guarantee main, .page__pros main {
+	background: url(/static/img/MSC-coolwallapps-hero-MOBILE.jpg) center top no-repeat;
+	background-size: contain;
+}
+
 @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.1rem;
 	}
 }
+
+@media screen and (min-width:960px) {
+	:root {
+		font-size: 1.1rem;
+	}
+
+	.container {
+		margin-left: auto;
+		margin-right: auto;
+		width: 66%;
+	}
+
+	nav {
+	  display: none;
+	}
+
+	nav.is-active {
+	  display: block;
+	}
+
+	.flex {
+		display: flex;
+	}
+
+	.align-items-center {
+		align-items: center;
+	}
+
+	.space-around { 
+		justify-content: space-around; 
+	}
+
+	.summary, .image {
+		flex-basis: 50%;
+	}
+
+
+	header nav ul :first-child {
+	margin-left: 0;
+	}
+
+	header nav li {
+		display: inline-block;
+		margin: 0 .5em;
+	}
+
+	.page__difference main {
+		background: url(/static/img/MSC-coolwallapps-hero.jpg);
+	}
+}
+
+@media screen and (min-width:1200px) {
+	:root {
+		font-size: 1.1rem;
+	}
+
+	.container {
+		margin-left: auto;
+		margin-right: auto;
+		width: 60%;
+	}
+
+	nav {
+		display: block;
+	}
+
+	header nav li {
+		display: inline-block;
+		margin: 0 .25em;
+	}
+
+	.mobile-menu {
+		display: none;
+	}
+
+	.home main p img {
+		height: 660px;
+	  	width: 660px;
+	}
+
+}
+
