@@ -22,10 +22,6 @@ body {
 	background-color: var(--background);
 }
 
-main {
-	max-width: 37.5em;
-}
-
 p {
 	line-height: 2;
 }
@@ -177,7 +173,7 @@ main > article :first-child {
 	margin-top: 0;
 }
 
-.hero h1 {
+main h1 {
 	padding-bottom: 80vh;
 }
 
