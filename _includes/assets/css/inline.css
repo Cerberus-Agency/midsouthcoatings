@@ -267,6 +267,10 @@ main h1 {
 		width: 60%;
 	}
 
+	.content {
+		margin-left: 50%;
+	}
+
 	nav {
 		display: block;
 	}

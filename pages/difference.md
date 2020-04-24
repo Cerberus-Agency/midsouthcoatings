@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: The CoolWall Difference
-date: 20-04-15
+date: 2020-04-15
 permalink: /difference/index.html
 eleventyNavigation:
   key: The CoolWall Difference
