@@ -244,12 +244,38 @@ main h1 {
 		margin: 0 .5em;
 	}
 
+	nav li ul {
+	    display: block;
+	    font-family: 'Roboto', sans-serif;
+	    margin-left: 1em;
+	    text-transform: uppercase;
+	}
+
 	main h1 {
 		padding-bottom: 200px;
 	}
 
+	.content {
+		margin-left: 50%;
+	}
+
+	.page__applications main {
+		background: url(/static/img/MSC-coolwallapps-hero.jpg) center top no-repeat;
+		background-size: contain;
+	}
+
+	.page__colorchart main {
+		background: url(/static/img/MSC-colorchartfinderpage-hero.jpg) center top no-repeat;
+		background-size: contain;
+	}
+
 	.page__difference main {
 		background: url(/static/img/MSC-coolwallapps-hero.jpg) center top no-repeat;
+		background-size: contain;
+	}
+
+	.page__home main {
+		background: url(/static/img/MSC-homepage-hero.jpg) center top no-repeat;
 		background-size: contain;
 	}
 }
@@ -265,10 +291,6 @@ main h1 {
 		margin-left: auto;
 		margin-right: auto;
 		width: 60%;
-	}
-
-	.content {
-		margin-left: 50%;
 	}
 
 	nav {
