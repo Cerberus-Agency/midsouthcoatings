@@ -1,11 +1,11 @@
 ---
 layout: layouts/page.njk
-title: Testimonials
+title: Frequestly Asked Questions
 date: 2020-04-15T00:00:00.000Z
-permalink: testimonials/index.html
+permalink: faqs/index.html
 eleventyNavigation:
-  key: Testimonials
-  order: 7
+  key: FAQs
+  order: 8
 ---
 
 #FAQs:
