@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Floor and Deck Coating
-date: 2020-04-15
+date: 2020-04-15T00:00:00.000Z
 permalink: applications/flooranddeck/index.html
 eleventyNavigation:
   parent: Coolwall Applications
