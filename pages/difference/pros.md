@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: MidSouth coatings Pros
-date: 2020-04-15T00:00:00.000Z
+date: 2020-04-15
 permalink: /difference/pros/index.html
 eleventyNavigation:
   key: MidSouth Coatings Pros
@@ -23,7 +23,7 @@ We derive great satisfaction in helping our neighbors make their homes more comf
 
 ## MIDSOUTH COATINGS’ 10-STEP PROCESS DELIVERS A GREAT RESULT. EVERY TIME.
 
-Only MidSouth Coatings offers the next-gen COOLWALL&reg; system (3.0), the most advanced exterior home coating on the market today. Our 10-step process ensures that your residential or commercial exterior application will be completed proficiently and on-time. Nobody beats our lifetime guarantee (3.1), and nobody pays as much attention to the details as MidSouth Coatings. Trust us to provide a professional application and eliminate the high cost and hassle of repeatedly painting your home, forever. 
+Only MidSouth Coatings offers the next-gen [COOLWALL&reg; system](/difference), the most advanced exterior home coating on the market today. Our 10-step process ensures that your residential or commercial exterior application will be completed proficiently and on-time. Nobody beats our lifetime guarantee (3.1), and nobody pays as much attention to the details as MidSouth Coatings. Trust us to provide a professional application and eliminate the high cost and hassle of repeatedly painting your home, forever. 
 
 STEP 1: INSPECTION MidSouth Coating’s professional staff inspects your home’s exterior in detail, identifying any damaged areas that may need to be repaired in order to provide a seamless surface for coating.
 

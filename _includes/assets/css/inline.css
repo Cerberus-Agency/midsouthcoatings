@@ -246,9 +246,11 @@ main h1 {
 
 	nav li ul {
 	    display: block;
-	    font-family: 'Roboto', sans-serif;
 	    margin-left: 1em;
-	    text-transform: uppercase;
+	}
+
+	nav li ul li a {
+		font-family: 'Roboto', sans-serif;
 	}
 
 	main h1 {
