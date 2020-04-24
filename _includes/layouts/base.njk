@@ -9,7 +9,9 @@
 	    {% include "components/nav.njk" %}
 
 		<main>
+			<content>
 			{{ layoutContent | safe }}
+			</content>
 		</main>
 
 		{% include "components/footer.njk" %}

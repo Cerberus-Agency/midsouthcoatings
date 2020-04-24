@@ -203,12 +203,16 @@ main h1 {
 		width: 66%;
 	}
 
+/****** DESKTOP NAVIGATION ******/
 	nav {
-	  display: none;
+		padding: 8em;
+		transform: translateY(-130%);
+		transition: all .5s;
+		width: 100%;
 	}
 
 	nav.is-active {
-	  display: block;
+		transform: translateY(0);
 	}
 
 	.flex {
@@ -227,6 +231,9 @@ main h1 {
 		flex-basis: 50%;
 	}
 
+	header {
+		z-index: 2;
+	}
 
 	header nav ul :first-child {
 	margin-left: 0;
@@ -237,10 +244,17 @@ main h1 {
 		margin: 0 .5em;
 	}
 
+	main h1 {
+		padding-bottom: 200px;
+	}
+
 	.page__difference main {
-		background: url(/static/img/MSC-coolwallapps-hero.jpg);
+		background: url(/static/img/MSC-coolwallapps-hero.jpg) center top no-repeat;
+		background-size: contain;
 	}
 }
+
+/****** BIG SCREENS ******/
 
 @media screen and (min-width:1200px) {
 	:root {
@@ -260,10 +274,6 @@ main h1 {
 	header nav li {
 		display: inline-block;
 		margin: 0 .25em;
-	}
-
-	.mobile-menu {
-		display: none;
 	}
 
 	.home main p img {
