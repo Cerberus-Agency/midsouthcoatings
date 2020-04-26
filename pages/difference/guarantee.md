@@ -1,7 +1,6 @@
 ---
 layout: layouts/page.njk
 title: The CoolWall Difference
-date: 2020-04-15T00:00:00.000Z
 permalink: /difference/guarantee/index.html
 eleventyNavigation:
   key: Lifetime Guarantee

@@ -1,7 +1,6 @@
 ---
 layout: layouts/page.njk
 title: MidSouth coatings Pros
-date: 2020-04-15T00:00:00.000Z
 permalink: /difference/pros/index.html
 eleventyNavigation:
   key: MidSouth Coatings Pros

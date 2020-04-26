@@ -1,7 +1,6 @@
 ---
 layout: layouts/page.njk
 title: Commercial Applications
-date: 2020-04-15T00:00:00.000Z
 permalink: /applications/commercial/index.html
 eleventyNavigation:
     parent: Coolwall Applications

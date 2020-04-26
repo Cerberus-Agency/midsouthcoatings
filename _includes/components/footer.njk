@@ -1,6 +1,8 @@
 <footer>
-  <small>
-    &copy; MidSouth Coatings.<br>
-    Site design and development by <a href="https://cerberus.agency" target="_blank">Cerberus</a>.
-  </small>
+  <img class="logo" src="/static/img/logo-msc-white.svg" alt="MidSouth Coatings logo">
+  <nav class="footer">
+	  {% set navPages = collections.all | eleventyNavigation %}
+	  {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+  </nav>
+  <small>Copyright &copy 2020 MidSouth Coatings, LLC</small>
 </footer>

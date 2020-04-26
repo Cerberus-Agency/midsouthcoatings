@@ -1,8 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Service Area
-date: 2020-04-15T00:00:00.000Z
-permalink: /servicearea/index.html
+permalink: /service-area/index.html
 eleventyNavigation:
   key: Service Area
   order: 5

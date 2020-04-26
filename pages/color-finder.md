@@ -1,8 +1,7 @@
 ---
 layout: layouts/page.njk
 title: CoolWall Color Finder
-date: 2016-01-01T00:00:00.000Z
-permalink: /colorfinder/index.html
+permalink: /color-finder/index.html
 <!-- eleventyNavigation:
   key: Color Finder
   order: 2 -->
