@@ -6,6 +6,7 @@ permalink: /
 eleventyNavigation:
   key: Home
   order: 0
+  
 ---
 
 # FIND YOUR COOLWALL® COLOR 
