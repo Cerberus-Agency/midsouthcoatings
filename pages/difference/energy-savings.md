@@ -1,8 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Energy Savings
-date: 2020-04-15T00:00:00.000Z
-permalink: /difference/energysavings.html
+permalink: /difference/energy-savings/index.html
 eleventyNavigation:
   key: Energy Savings
   parent: The CoolWall Difference
@@ -19,4 +18,4 @@ Specially formulated to deflect heat energy away from the home, the COOLWALL&reg
 
 Over nearly a two-year period, the COOLWALL&reg; System was tested by the U.S. Department of Energy’s Oak Ridge National Laboratory to determine its true energy-saving qualities. The study found that the COOLWALL&reg; System significantly reduced exterior wall temperatures while reducing energy consumption in concrete block, stucco, and wood-framed homes. The study also found that the COOLWALL&reg; System reduced cooling costs by up to 21.9%*. 
 
-<small>*Percentage of cooling costs and surface temperature reductions will vary based on color chosen, geographical location, climate condition, and substrate type. </small>
+<small><i>* Percentage of cooling costs and surface temperature reductions will vary based on color chosen, geographical location, climate condition, and substrate type.</i></small>

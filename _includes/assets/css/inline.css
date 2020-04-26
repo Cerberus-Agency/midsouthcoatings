@@ -17,7 +17,7 @@ body {
 
 body {
 	display: grid;
-	height: 100vh;
+	/*height: 100vh;*/
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
 }
@@ -29,6 +29,7 @@ p {
 h1 {
 	color: var(--background);
 	font-family: 'Tenor Sans', sans-serif;
+	font-size: 2em;
 	line-height: 1.2;
 	text-shadow: 2px 0px 6px rgba(0,0,0,0.6);
 }
@@ -36,24 +37,15 @@ h1 {
 a[href],
 a[href]:visited {
 	color: var(--primary);
+	font-weight: 700;
 }
 
 a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header,
-main,
-footer {
-	padding: 1em;
-}
-
-header > em {
-	display: block;
-	font-size: 2em;
-	margin: .67em 0;
-	font-weight: bold;
-	font-style: normal;
+small {
+	font-size: .5em;
 }
 
 .social, .main-nav {
@@ -84,7 +76,7 @@ a.icon {
 
 /******* HEADER NAV *******/
 
-nav {
+nav.header {
 	background-color: white;
 	position: absolute;
 	top: 8em;
@@ -93,46 +85,75 @@ nav {
 	width: 100%;
 }
 
-nav.is-active {
+nav.header.is-active {
 	transform: translateX(0);
 }
 
 
-nav ul {
+nav.header ul {
 	padding: 0;
 	list-style: none;
 }
 
-nav li {
+nav.header li {
 	display: block;
 	margin: 1em 0;
 }
 
-nav li:has(> ul) {
+nav.header li:has(> ul) {
 	background: red;
 }
 
-nav li a {
+nav.header li a {
 	font-family: 'Tenor Sans', sans-serif;
 	color: black;
 	padding: .25em .5em;
 	text-transform: uppercase;
 }
 
-nav li a[href]:not(:hover) {
+nav.header li a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-nav li a[data-current="current item"] {
-	background-color: white;
+nav.header li a[data-current="current item"] {
+	background-color: orange;
 }
 
-nav li ul {
+nav.header li ul {
 	display: none;
 	margin-left: 1em;
 }
 
-/* Contact Form */
+/****** FOOTER ******/
+
+footer {
+	background-color: black;
+	color: white;
+	padding: 4em;
+}
+
+footer img.logo {
+	height: 60px;
+}
+
+nav.footer ul {
+	list-style: none;
+}
+
+nav.footer ul li ul {
+	display: none;
+}
+
+nav.footer a[href], nav.footer a[href]:visited {
+	color: white;
+	font-family: "Roboto", sans-serif;
+	font-weight: 300;
+	line-height: 2;
+	text-transform: uppercase;
+}
+
+/****** CONTACT FORM ******/
+
 form {
   display: grid;
 	padding: 2em 0;
@@ -164,21 +185,25 @@ button {
 	cursor: pointer;
 }
 
+/****** MAIN (CONTENT AREA) ******/
+
 main {
+	background-size: contain;
 	padding-bottom: 2em;
 }
 
-main :first-child,
-main > article :first-child {
-	margin-top: 0;
-}
-
 main h1 {
-	padding-bottom: 80vh;
+	padding: 20vh 0 85vh 0;
 }
 
-.page__difference main {
-	background: url(/static/img/MSC-coolwallapps-hero-MOBILE.jpg);
+.page__applications main {
+	background: url(/static/img/MSC-coolwallapps-hero-MOBILE.jpg) center top no-repeat;
+	background-size: contain;
+}
+
+.page__colorchart main {
+	background: url(/static/img/MSC-colorchartfinderpage-hero-MOBILE.jpg) center top no-repeat;
+	background-size: contain;
 }
 
 .page__difference main, .page__guarantee main, .page__pros main {
@@ -186,32 +211,40 @@ main h1 {
 	background-size: contain;
 }
 
+.page__home main {
+	background: url(/static/img/MSC-homepage-hero-MOBILE.jpg) center top no-repeat;
+	background-size: contain;
+}
+
+content p {
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+}
+
+.request-quote {
+	border: 1px solid --var(primary);
+	font-family: "Tenor Sans". sans-serif;
+	font-size: 1.5em;
+	padding: 1em;
+	text-transform: uppercase;
+}
+
+
 @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.1rem;
 	}
-}
-
-@media screen and (min-width:960px) {
-	:root {
-		font-size: 1.1rem;
-	}
-
-	.container {
-		margin-left: auto;
-		margin-right: auto;
-		width: 66%;
-	}
 
 /****** DESKTOP NAVIGATION ******/
-	nav {
+	nav.header {
 		padding: 8em;
 		transform: translateY(-130%);
 		transition: all .5s;
 		width: 100%;
 	}
 
-	nav.is-active {
+	nav.header.is-active {
 		transform: translateY(0);
 	}
 
@@ -235,30 +268,31 @@ main h1 {
 		z-index: 2;
 	}
 
-	header nav ul :first-child {
-	margin-left: 0;
-	}
-
-	header nav li {
-		display: inline-block;
-		margin: 0 .5em;
-	}
-
-	nav li ul {
+	nav.header li ul {
 	    display: block;
 	    margin-left: 1em;
 	}
 
-	nav li ul li a {
+	nav.header li ul li a {
 		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
 	}
 
 	main h1 {
-		padding-bottom: 200px;
+		transform: translateX(-120%);
+    	padding: 20vh 0 30vh 0vw;
+	}
+
+	.mainlink img {
+	     height: 81px; 
 	}
 
 	.content {
-		margin-left: 50%;
+		margin-left: 60%;
+	}
+
+	.content p {
+		width: 80%;
 	}
 
 	.page__applications main {
@@ -271,7 +305,7 @@ main h1 {
 		background-size: contain;
 	}
 
-	.page__difference main {
+	.page__difference main, .page__guarantee main, .page__pros main {
 		background: url(/static/img/MSC-coolwallapps-hero.jpg) center top no-repeat;
 		background-size: contain;
 	}
