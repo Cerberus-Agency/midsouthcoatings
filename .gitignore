@@ -5,3 +5,4 @@ support_files
 
 # Local Netlify folder
 .netlify
+.DS_Store
