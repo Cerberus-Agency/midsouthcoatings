@@ -5,7 +5,7 @@ permalink: applications/floor-and-deck/index.html
 eleventyNavigation:
   parent: Coolwall Applications
   key: Floor & Deck Coating
-  order: 5
+  order: 3
 ---
 
 #COOL-TEC® HEAT-REFLECTIVE FLOOR & DECK COATING FOR WOOD AND CONCRETE APPLICATIONS.

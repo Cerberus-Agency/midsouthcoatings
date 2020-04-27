@@ -5,7 +5,7 @@ permalink: /applications/commercial/index.html
 eleventyNavigation:
     parent: Coolwall Applications
     key: Commercial Applications
-    order: 5
+    order: 2
 ---
 
 # BUSINESSES ACROSS THE GLOBE TRUST OUR COATINGS PRODUCTS.

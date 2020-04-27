@@ -5,7 +5,7 @@ permalink: /applications/residential/index.html
 eleventyNavigation:
   parent: Coolwall Applications
   key: Residential Applications
-  order: 4
+  order: 1
 ---
 
 # COLOR YOUR HOME, FOR LIFE.
