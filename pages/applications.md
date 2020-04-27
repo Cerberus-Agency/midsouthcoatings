@@ -2,20 +2,18 @@
 layout: layouts/hero.njk
 title: Applications
 permalink: /applications/index.html
-heading: MidSouth Coating’s COOLWALL&reg; system is simply the most advanced exterior coating on the market today.
-excerpt: MidSouth Coating’s COOLWALL&reg; system is simply the most advanced exterior coating on the market today.
+excerpt: MAvailable in more than 570 COOLWALL&reg; colors (2.0) and smooth, sand, fine, or coarse finishes, this next-gen coating system enhances the look of any home. 
 eleventyNavigation:
   key: Applications
   order: 4
 
 ---
 
-# MidSouth Coating’s COOLWALL&reg; system is simply the most advanced exterior coating on the market today.
 
-In fact, COOLWALL&reg; uses the same heat reflective technology first developed by the military to reduce the heat signature of its combat vehicles. Our patented infrared heat reflective coatings not only provide for lower surface temperatures, each of our 570 COOLWALL&reg; [colors](/color-chart) is guaranteed to protect and beautify for a lifetime (3.1). And because our coatings stay much cooler than every other exterior coating solution, heat buildup is greatly reduced, which means less expansion and contraction stress. 
+# COLOR YOUR HOME, FOR LIFE.
 
-On average, MidSouth Coating’s COOLWALL&reg; colors are 100% more reflective than the conventional technologies used in every competing product sold. Tests conducted by the U.S. Department of Energy over nearly a two-year period demonstrate the COOLWALL&reg; system’s ability to save more energy than other exterior home coatings, including paint and ceramic coatings. The study found that the COOLWALL&reg; System significantly reduced exterior wall temperatures while reducing [energy consumption](/differnce/energy-savings) in concrete block, stucco, Hardie board, and wood-framed homes. While most coatings claim to be “green” (7.0) by cutting VOCs, only COOLWALL&reg; cuts emissions through reflectivity, utilizes recycled materials, and helps [reduce cooling costs](/differnce/energy-savings). 
+Available in more than 570 COOLWALL&reg; [colors](/color-chart) and smooth, sand, fine, or coarse finishes, this next-gen coating system enhances the look of any home. COOLWALL&reg; colors not only resist fading and come with a lifetime guarantee (3.1), they demonstrate an outstanding resistance to mold and mildew. A study conducted by the U.S. Department of Energy’s Oak Ridge National Laboratory showed that COOLWALL&reg; coatings can [reduce home cooling costs](/difference/energy-savings) by as much as 21.9%*. [For many homeowners](/testimonials), MidSouth Coatings has helped end the cycle of scraping and painting their home every few years.  Simply put, COOLWALL&reg; by MidSouth Coatings is the home exterior coating solution that makes painting your home obsolete.
 
-Trust MidSouth Coatings (3.3) to provide professional application of the next-gen COOLWALL&reg; system, and eliminate the high cost and hassle of repeatedly painting your home forever. No other exterior coating pros are more experienced or pay more attention to the details as the experts at MidSouth Coatings. Our 10-step process ensures that your residential or commercial exterior application will be completed skillfully, quickly, and efficiently. Schedule your free consultation today and a friendly team member will meet with you to discuss how truly affordable our remarkable exterior coating system is.
+[COMMERCIAL APPLICATIONS](/applications/commercial) // [FLOOR & DECK COATING](/applications/floor-and-deck)
 
-[LIFETIME GUARANTEE](/difference/guarantee) // [ENERGY SAVINGS](/difference/energy-savings) // [MIDSOUTH COATINGS PROS](/difference/pros)
+MOUSE:	* Energy savings of up to 21.9% is based on the Department of Energy study which showed savings on homes with COOLWALL&reg; ranged from 4.2% to 21.9%
