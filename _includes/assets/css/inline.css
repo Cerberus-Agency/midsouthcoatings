@@ -284,7 +284,7 @@ button {
 }
 
 .color-chart div {
-	flex-basis: 16.66;
+	flex-basis: 16.66%;
 	font-size: .75em;
 	text-align: center;
 }
