@@ -10,6 +10,8 @@ eleventyNavigation:
 
 # ENERGY SAVINGS: COOLWALL&reg; COLORS REDUCE COOLING COSTS BY UP TO 21.9%
 
+![/static/img/MSC-energysavings-inset.jpg]
+
 Energy savings of up to 21.9% is based on the Department of Energy study which showed savings on homes with COOLWALL&reg; ranged from 4.2% to 21.9%. 
 
 Across the Southern U.S., cooling even a moderate size house can require over 1500 hours of air conditioning operation a year, so cooling these homes can be extremely expensive. On a hot day, homes can absorb as much as 90% of the sun’s rays and even white walls absorb a significant amount of this radiant energy. COOLWALL&reg; colors are, on average, 100% more reflective than conventional products. In fact, our advanced, next-gen home coating has been proven to reduce exterior wall temperatures up to 40°. 
