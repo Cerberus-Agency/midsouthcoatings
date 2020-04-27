@@ -18,4 +18,4 @@ On average, MidSouth Coating’s COOLWALL&reg; colors are 100% more reflective t
 
 Trust MidSouth Coatings (3.3) to provide professional application of the next-gen COOLWALL&reg; system, and eliminate the high cost and hassle of repeatedly painting your home forever. No other exterior coating pros are more experienced or pay more attention to the details as the experts at MidSouth Coatings. Our 10-step process ensures that your residential or commercial exterior application will be completed skillfully, quickly, and efficiently. Schedule your free consultation today and a friendly team member will meet with you to discuss how truly affordable our remarkable exterior coating system is.
 
-[LIFETIME GUARANTEE](/difference/guarantee.html) // [ENERGY SAVINGS](/difference/energysavings.html) // [MIDSOUTH COATINGS PROS](/difference/pros.html)
+[LIFETIME GUARANTEE](/difference/guarantee) // [ENERGY SAVINGS](/difference/energysavings) // [MIDSOUTH COATINGS PROS](/difference/pros)
