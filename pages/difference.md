@@ -2,7 +2,6 @@
 layout: layouts/hero.njk
 title: The CoolWall Difference
 permalink: /difference/index.html
-heading: MidSouth Coating’s COOLWALL&reg; system is simply the most advanced exterior coating on the market today.
 excerpt: MidSouth Coating’s COOLWALL&reg; system is simply the most advanced exterior coating on the market today.
 eleventyNavigation:
   key: The CoolWall Difference
