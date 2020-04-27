@@ -232,9 +232,19 @@ button {
 	width: 100%;
 }
 
-.hero__testimonials main h1 {
-	font-size: 1.5em;
-    width: 66%;
+.hero.hero__testimonials main h1 {
+	font-size: 1.8em;
+	text-transform: none;
+    width: 55%;
+}
+
+.hero.hero__testimonials main h1 span {
+	display: block;
+	font-family: "Roboto", sans-serif;
+	font-size: .5em;
+	font-weight: 300;
+	margin-top: .5em;
+	text-shadow: none;
 }
 
 .hero__applications main {
@@ -306,6 +316,27 @@ button {
 	margin: 1rem auto;	
 }
 
+/****** REVIEWS ******/
+
+.reviews p {
+	font-size: .9em;
+	line-height: 1.3;
+}
+
+.hero .content .reviews p.pullquote {
+	color: var(--primary);
+	font-family: "Tenor Sans", sans-serif;
+	font-size: 2rem;
+	line-height: 1.3;
+	transform: translateX(10%) translateY(-30px);
+	width: 90%;
+}
+
+.pullquote span {
+	font-family: "Roboto", sans-serif;
+	font-size: 1rem;
+}
+
 /****** DESKTOP ******/
 
 @media screen and (min-width:768px) {
@@ -365,7 +396,7 @@ button {
 	}
 
 	.hero .content p {
-		margin-bottom: 3em;
+		margin-bottom: 2em;
 		transform: translateX(133%) translateY(-60px);
 		width: 40%;	
 	}
@@ -376,7 +407,7 @@ button {
 		text-transform: uppercase;		
 	}
 
-	.hero .hero__home main h1 {
+	.hero.hero__home main h1 {
 		padding: 20vh 0 0 8vw;	
 	}
 

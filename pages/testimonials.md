@@ -9,9 +9,13 @@ eleventyNavigation:
 
 
 
-# “We have been very pleased in all our dealings with Kevin Mmahat and his company, MidSouth Coatings. It's a smart product and well worth the cost. He is honest, works within the budget, and the results are stellar. The fact that Kevin is a local boy is another reason to do business with him. We can recommend him wholeheartedly.” ★★★★★ David Palmisano
+<h1>“We have been very pleased in all our dealings with Kevin Mmahat and his company, MidSouth Coatings. It's a smart product and well worth the cost. He is honest, works within the budget, and the results are stellar. The fact that Kevin is a local boy is another reason to do business with him. We can recommend him wholeheartedly.” <span>★★★★★ - David Palmisano</span></h1>
 
-We’re proud of our efforts to provide quality application of the finest exterior home coating on the market today, COOLWALL® We appreciate all of the five-star Google reviews we have received, and we'd love to add yours to our site. [Click here](https://www.google.com/search?q=mid+south+coatings#lrd=0x8620b05f48ba5765:0xf207a71d7568051b,1,,,) to leave your review. 
+We’re proud of our efforts to provide quality application of the finest exterior home coating on the market today, COOLWALL®.
+
+ We appreciate all of the five-star Google reviews we have received, and we'd love to add yours to our site. [Click here](https://www.google.com/search?q=mid+south+coatings#lrd=0x8620b05f48ba5765:0xf207a71d7568051b,1,,,) to leave your review. 
+
+<div class="reviews">
 
 ★★★★★
 Harold D.
@@ -49,9 +53,10 @@ MidSouth Coatings is a number one company. I have some family members that has u
 Tony H. Local Guide
 I have worked directly with the owner Kevin Mmahat. He has been upfront, honest and a pleasure to work with. I realize products may not be as cheap as paint but I know you get what you pay for...
 
-★★★★★
-Michael R.
+<p class="pullquote">
 The staff is very knowledgeable and helpful. The product looks great and I’m confident in its longevity. I’m very pleased and highly recommend MidSouth Coatings.
+<span>★★★★★ - Michael R.</span>
+</p>
 
 ★★★★★
 David P.
@@ -93,9 +98,10 @@ MidSouth Coatings did an excellent job from start to finish. Very professional a
 Susan S.
 Kevin and the crew at MidSouth Coatings are knowledgeable, professional and a pleasure to work with. Highly recommended!
 
-★★★★★
-Jackie B.
+<p class="pullquote">
 Professional job, very easy to work with and my house has never looked so good.
+<span>★★★★★ - Jackie B.</span>
+</p>
 
 ★★★★★
 Thomas B.
@@ -144,3 +150,5 @@ Extremely professional, did a great job on my house. Not to mention that the pro
 ★★★★★
 Granville M.
 Outstanding service and product. Have referred many friends, businesses and families and will continue to do so.
+
+</div>
