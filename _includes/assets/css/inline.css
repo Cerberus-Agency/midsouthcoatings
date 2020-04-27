@@ -219,11 +219,6 @@ button {
 	background-size: contain;
 }
 
-.hero__guarantee main h1 , .hero__pros main h1 {
-	background: url(/static/img/MSC-coolwallapps-hero-MOBILE.jpg) center top no-repeat;
-	background-size: contain;
-}
-
 .hero__home main h1 {
 	background: url(/static/img/MSC-homepage-hero-MOBILE.jpg) center top no-repeat;
 	background-size: contain;
@@ -326,7 +321,7 @@ button {
 
 	.hero main h1 {
     	padding: 20vh 0 40vh 8vw;
-    	text-transform: uppercase;
+    	text-transform: uppercase;	
 	}
 
 	.mainlink img {
@@ -359,11 +354,6 @@ button {
 
 	.hero__difference main h1 {
 		background: url(/static/img/MSC-coolwalldiff-hero.jpg) center top no-repeat;
-		background-size: contain;
-	}
-
-	.page__guarantee main h1, .page__pros main h1 {
-		background: url(/static/img/MSC-coolwallapps-hero.jpg) center top no-repeat;
 		background-size: contain;
 	}
 
