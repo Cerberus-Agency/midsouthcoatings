@@ -58,6 +58,10 @@ small {
 	line-height: 1.1;
 }
 
+footer small {
+	color: var(--secondary);
+}
+
 .social, .main-nav {
 	display: flex;
 	justify-content: space-between;
@@ -85,12 +89,14 @@ a.phone-number {
 	font-weight: 700;
 	transition: all .5s;
 	border: 1px solid var(--primary);
+	border-radius: 10px;
 	margin: .5em 0;
 	padding: .5em;
 }
 
 .question.is-active {
 	color: red;
+	cursor: pointer;
 	font-weight: 700;
 }
 
@@ -99,6 +105,7 @@ a.phone-number {
 }
 
 .answer.is-active {
+	display: block;
 	height: 100%;
 }
 
@@ -351,11 +358,6 @@ button {
 	    height: 91px;
 	}
 
-	.hero main h1 {
-    	padding: 20vh 0 40vh 8vw;
-    	text-transform: uppercase;	
-	}
-
 	.mainlink img {
 	     height: 81px; 
 	}
@@ -367,6 +369,14 @@ button {
 	}
 
 	.hero main h1 {
+		height: 60vh;
+		padding: 20vh 0 0 8vw;
+		text-transform: uppercase;		
+	}
+
+	.hero .hero__difference main h1 {
+		height: 60vh;
+		padding: 0 0 0 8vw;
 		text-transform: uppercase;		
 	}
 

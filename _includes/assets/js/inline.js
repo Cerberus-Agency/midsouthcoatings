@@ -19,10 +19,9 @@ $(document).ready(function(){
 $(document).ready(function(){
   var allPanels = $('.answer').hide();
     
-  $('.accordion > .question').click(function() {
+  $('.question').click(function() {
     allPanels.slideUp();
-    $(this).toggleClass("is-active");
-    $(this).next().toggleClass("is-active");
+    $(this).next().slideDown("slow");
     return false;
   });
 });
