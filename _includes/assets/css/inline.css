@@ -278,6 +278,7 @@ button {
 	}
 
 /****** DESKTOP NAVIGATION ******/
+
 	nav.header {
 		padding: 8em;
 		transform: translateY(-130%);
@@ -324,7 +325,6 @@ button {
 	}
 
 	.hero main h1 {
-		transform: translateX(-120%);	
     	padding: 20vh 0 40vh 0vw;
 	}
 
@@ -366,7 +366,7 @@ button {
 		background-size: contain;
 	}
 
-	.hero__home main {
+	.hero__home main h1 {
 		background: url(/static/img/MSC-homepage-hero.jpg) center top no-repeat;
 		background-size: contain;
 	}
