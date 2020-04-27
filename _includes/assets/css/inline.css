@@ -66,6 +66,12 @@ a.icon {
 	display: inline-block;
 	height: 20px;
 	width: 20px;
+	transform: translateX(-3px) translateY(6px);
+}
+
+a.phone-number {
+	font-size: .75em;
+	font-weight: 400;
 }
 
 .mobile-menu {
@@ -233,9 +239,35 @@ button {
 	border: 1px solid var(--primary);
 	font-family: "Tenor Sans", sans-serif;
 	font-size: 1.25em;
-	margin-top; 1em
+	margin-top: 1em;
 	padding: 1em;
 	text-transform: uppercase;
+}
+
+/****** COLOR CHART ******/
+
+.color-chart {
+	display: flex;
+	flex-wrap: wrap;	
+	margin: 0 0 3em;
+}
+
+.color-chart h2 {
+	flex-basis: 100%;
+}
+
+.color-chart div {
+	flex-basis: 20%;
+	font-size: .75em;
+	text-align: center;
+}
+
+.color-chart div span {
+	display: block;
+	border-radius: 2rem;
+	height: 4rem;
+	width: 4rem;
+	margin: 1rem auto;	
 }
 
 /****** DESKTOP ******/
@@ -287,6 +319,10 @@ button {
 		font-weight: 300;
 	}
 
+	footer img.logo {
+	    height: 91px;
+	}
+
 	.hero main h1 {
 		transform: translateX(-120%);	
     	padding: 20vh 0 40vh 0vw;
@@ -296,13 +332,14 @@ button {
 	     height: 81px; 
 	}
 
-	.hero .content {
+	.hero .content p {
 		margin-left: 60%;
+		margin-bottom: 3em;
+		width: 80%;	
 	}
 
-	.hero .content p {
-		width: 80%;
-		margin-bottom: 3em;
+	main {
+		padding: 0 2em;
 	}
 
 	.hero main h1 {

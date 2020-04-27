@@ -1,7 +1,7 @@
 ---
-layout: layouts/page.njk
-title: CoolWall&reg; Colors
-permalink: /colorchart/index.html
+layout: layouts/color-chart.njk
+title: CoolWall® Colors
+permalink: /color-chart/index.html
 eleventyNavigation:
   key: CoolWall Color Chart
   order: 2
