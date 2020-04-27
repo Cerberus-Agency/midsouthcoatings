@@ -1,5 +1,5 @@
 ---
-layout: layouts/page.njk
+layout: layouts/hero.njk
 title: Testimonials
 permalink: testimonials/index.html
 eleventyNavigation:
@@ -7,11 +7,11 @@ eleventyNavigation:
   order: 7
 ---
 
-#TESTIMONIALS:
 
-VISUAL:	“We have been very pleased in all our dealings with Kevin Mmahat and his company, MidSouth Coatings. It's a smart product and well worth the cost. He is honest, works within the budget, and the results are stellar. The fact that Kevin is a local boy is another reason to do business with him. We can recommend him wholeheartedly.” ★★★★★ David Palmisano
 
-We’re proud of our efforts to provide quality application of the finest exterior home coating on the market today, COOLWALL® We appreciate all of the five-star Google reviews we have received, and we'd love to add yours to our site. Click here (https://www.google.com/search?q=mid+south+coatings#lrd=0x8620b05f48ba5765:0xf207a71d7568051b,1,,,) to leave your review. 
+# “We have been very pleased in all our dealings with Kevin Mmahat and his company, MidSouth Coatings. It's a smart product and well worth the cost. He is honest, works within the budget, and the results are stellar. The fact that Kevin is a local boy is another reason to do business with him. We can recommend him wholeheartedly.” ★★★★★ David Palmisano
+
+We’re proud of our efforts to provide quality application of the finest exterior home coating on the market today, COOLWALL® We appreciate all of the five-star Google reviews we have received, and we'd love to add yours to our site. [Click here](https://www.google.com/search?q=mid+south+coatings#lrd=0x8620b05f48ba5765:0xf207a71d7568051b,1,,,) to leave your review. 
 
 ★★★★★
 Harold D.

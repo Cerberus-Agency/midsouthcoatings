@@ -94,19 +94,11 @@ a.phone-number {
 	padding: .5em;
 }
 
-.question.is-active {
-	color: red;
-	cursor: pointer;
-	font-weight: 700;
+.answer p {
+	padding: 0 1em;
 }
-
-.answer {
-	transition: all .5s;
-}
-
-.answer.is-active {
-	display: block;
-	height: 100%;
+.answer li {
+	line-height: 1.5;
 }
 
 .mobile-menu {
@@ -240,6 +232,11 @@ button {
 	width: 100%;
 }
 
+.hero__testimonials main h1 {
+	font-size: 1.5em;
+    width: 66%;
+}
+
 .hero__applications main {
 	background: url(/static/img/MSC-coolwallapps-hero-MOBILE.jpg) center top no-repeat;
 	background-size: contain;
@@ -261,8 +258,13 @@ button {
 	padding: 20vh 0 85vh 8vh;
 }
 
+.hero__testimonials main {
+	background: url(/static/img/MSC-5starreviews-hero-MOBILE.jpg) center top no-repeat;
+	background-size: contain;
+}
+
 .content img {
-	width: 100% /* I know, I know, this is going to be too powerful. */
+	width: 100%; /* I know, I know, this is going to be too powerful. */
 }
 
 .content p { 
@@ -370,14 +372,12 @@ button {
 
 	.hero main h1 {
 		height: 60vh;
-		padding: 20vh 0 0 8vw;
+		padding: 0 0 0 8vw;
 		text-transform: uppercase;		
 	}
 
-	.hero .hero__difference main h1 {
-		height: 60vh;
-		padding: 0 0 0 8vw;
-		text-transform: uppercase;		
+	.hero .hero__home main h1 {
+		padding: 20vh 0 0 8vw;	
 	}
 
 	.hero__applications main {
@@ -397,6 +397,11 @@ button {
 
 	.hero__home main {
 		background: url(/static/img/MSC-homepage-hero.jpg) center top no-repeat;
+		background-size: contain;
+	}
+
+	.hero__testimonials main {
+		background: url(/static/img/MSC-5starreviews-hero.jpg) center top no-repeat;
 		background-size: contain;
 	}
 }
