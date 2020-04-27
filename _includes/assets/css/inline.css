@@ -370,22 +370,22 @@ button {
 		text-transform: uppercase;		
 	}
 
-	.hero__applications main h1 {
+	.hero__applications main {
 		background: url(/static/img/MSC-coolwallapps-hero.jpg) center top no-repeat;
 		background-size: contain;
 	}
 
-	.hero__color-chart main h1 {
+	.hero__color-chart main {
 		background: url(/static/img/MSC-colorchartfinderpage-hero.jpg) center top no-repeat;
 		background-size: contain;
 	}
 
-	.hero__difference main h1 {
+	.hero__difference main {
 		background: url(/static/img/MSC-coolwalldiff-hero.jpg) center top no-repeat;
 		background-size: contain;
 	}
 
-	.hero__home main h1 {
+	.hero__home main {
 		background: url(/static/img/MSC-homepage-hero.jpg) center top no-repeat;
 		background-size: contain;
 	}
