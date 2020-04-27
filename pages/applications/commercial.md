@@ -12,7 +12,7 @@ eleventyNavigation:
 
 # BUSINESSES ACROSS THE GLOBE TRUST OUR COATINGS PRODUCTS.
 
-![/static/img/MSC-commercialapps-inset.jpg]
+![](/static/img/MSC-commercialapps-inset.jpg)
 
 Utilizing the same technology pioneered by the U.S. Military to reduce the heat signature of combat vehicles, COOLWALL® was created by one of the most advanced coatings manufacturers in the world, TEX-COTE&reg;. It’s no wonder more than 3,000 gallons of their products are applied around the world every day. From office buildings and retail stores, to warehouses and manufacturing facilities, to schools and churches, all benefit from superior protection from the elements while presenting a beautiful appearance that lasts.
 
