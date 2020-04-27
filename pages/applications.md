@@ -16,4 +16,4 @@ Available in more than 570 COOLWALL&reg; [colors](/color-chart) and smooth, sand
 
 [COMMERCIAL APPLICATIONS](/applications/commercial) // [FLOOR & DECK COATING](/applications/floor-and-deck)
 
-MOUSE:	* Energy savings of up to 21.9% is based on the Department of Energy study which showed savings on homes with COOLWALL&reg; ranged from 4.2% to 21.9%
+<small>* Energy savings of up to 21.9% is based on the Department of Energy study which showed savings on homes with COOLWALL&reg; ranged from 4.2% to 21.9%</small>
