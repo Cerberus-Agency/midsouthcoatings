@@ -197,11 +197,11 @@ button {
 
 .hero main {
 	background-size: contain;
-	padding-bottom:	 2em;
+	padding: 0 0 2em;
 }
 
 .hero main h1 {
-	padding: 20vh 0 85vh 0;
+	padding: 20vh 0 85vh 8vh;
 }
 
 .hero__applications main h1 {
@@ -325,7 +325,8 @@ button {
 	}
 
 	.hero main h1 {
-    	padding: 20vh 0 40vh 0vw;
+    	padding: 20vh 0 40vh 8vw;
+    	text-transform: uppercase;
 	}
 
 	.mainlink img {
@@ -333,9 +334,9 @@ button {
 	}
 
 	.hero .content p {
-		margin-left: 60%;
 		margin-bottom: 3em;
-		width: 80%;	
+		transform: translateX(133%) translateY(-60px);
+		width: 40%;	
 	}
 
 	main {
