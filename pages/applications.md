@@ -1,10 +1,10 @@
 ---
 layout: layouts/hero.njk
-title: Applications
+title: CoolWall Applications
 permalink: /applications/index.html
-excerpt: MAvailable in more than 570 COOLWALL&reg; colors (2.0) and smooth, sand, fine, or coarse finishes, this next-gen coating system enhances the look of any home. 
+excerpt: Available in more than 570 COOLWALL&reg; colors (2.0) and smooth, sand, fine, or coarse finishes, this next-gen coating system enhances the look of any home. 
 eleventyNavigation:
-  key: Applications
+  key: CoolWall Applications
   order: 4
 
 ---
