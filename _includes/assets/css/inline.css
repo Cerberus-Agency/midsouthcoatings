@@ -198,27 +198,27 @@ button {
 	padding: 20vh 0 85vh 0;
 }
 
-.hero__applications main {
+.hero__applications main h1 {
 	background: url(/static/img/MSC-coolwallapps-hero-MOBILE.jpg) center top no-repeat;
 	background-size: contain;
 }
 
-.hero__colorchart main {
+.hero__colorchart main h1 {
 	background: url(/static/img/MSC-colorchartfinderpage-hero-MOBILE.jpg) center top no-repeat;
 	background-size: contain;
 }
 
-.hero__difference main {
+.hero__difference main h1 {
 	background: url(/static/img/MSC-coolwalldiff-hero-MOBILE.jpg) center top no-repeat;
 	background-size: contain;
 }
 
-.hero__guarantee main, .hero__pros main {
+.hero__guarantee main h1 , .hero__pros main h1 {
 	background: url(/static/img/MSC-coolwallapps-hero-MOBILE.jpg) center top no-repeat;
 	background-size: contain;
 }
 
-.hero__home main {
+.hero__home main h1 {
 	background: url(/static/img/MSC-homepage-hero-MOBILE.jpg) center top no-repeat;
 	background-size: contain;
 }
@@ -288,7 +288,7 @@ button {
 	}
 
 	.hero main h1 {
-		transform: translateX(-120%);
+		transform: translateX(-120%);	
     	padding: 20vh 0 40vh 0vw;
 	}
 
@@ -303,6 +303,10 @@ button {
 	.hero .content p {
 		width: 80%;
 		margin-bottom: 3em;
+	}
+
+	.hero main h1 {
+		text-transform: uppercase;		
 	}
 
 	.hero__applications main h1 {
