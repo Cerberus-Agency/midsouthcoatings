@@ -8,8 +8,6 @@ eleventyNavigation:
     order: 5
 ---
 
-4.2 COMMERCIAL APPLICATIONS:
-
 # BUSINESSES ACROSS THE GLOBE TRUST OUR COATINGS PRODUCTS.
 
 ![](/static/img/MSC-commercialapps-inset.jpg)

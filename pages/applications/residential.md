@@ -8,9 +8,7 @@ eleventyNavigation:
   order: 4
 ---
 
-# RESIDENTIAL APPLICATIONS:
-
-## COLOR YOUR HOME, FOR LIFE.
+# COLOR YOUR HOME, FOR LIFE.
 
 ![](static/img/MSC-residentialapps-inset.jpg)
 

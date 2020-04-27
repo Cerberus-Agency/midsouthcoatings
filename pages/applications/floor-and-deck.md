@@ -8,9 +8,7 @@ eleventyNavigation:
   order: 5
 ---
 
-#FLOOR & DECK COATING:
-
-##COOL-TEC® HEAT-REFLECTIVE FLOOR & DECK COATING FOR WOOD AND CONCRETE APPLICATIONS.
+#COOL-TEC® HEAT-REFLECTIVE FLOOR & DECK COATING FOR WOOD AND CONCRETE APPLICATIONS.
 
 Perfect for concrete and wood decks, walkways, patios, pool decks, and balconies; COOL-TEC&reg; provides a much cooler, slip-resistant walking surface that is barefoot friendly. And because COOL-TEC&reg; provides for lower surface temperatures (up to 40° difference), the reduction in radiant energy leads to enhanced durability and superior fade resistance. 
 
