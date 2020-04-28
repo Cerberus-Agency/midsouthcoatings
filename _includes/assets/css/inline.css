@@ -8,6 +8,10 @@
   box-sizing: border-box;
 }
 
+.desktop {
+	display: none;
+}
+
 html,
 body {
 	padding: 0;
@@ -32,13 +36,6 @@ h1 {
 	font-family: 'Tenor Sans', sans-serif;
 	font-size: 2em;
 	line-height: 1.2;
-}
-
-.hero h1 {
-	color: var(--background);
-	height: 70vh;
-	text-shadow: 2px 0px 6px rgba(0,0,0,0.6);
-	text-transform: uppercase;
 }
 
 a[href],
@@ -232,6 +229,13 @@ button {
 	width: 100%;
 }
 
+.hero h1 {
+	color: var(--background);
+	height: 80vh;
+	text-shadow: 2px 0px 6px rgba(0,0,0,0.6);
+	text-transform: uppercase;
+}
+
 .hero.hero__difference main h1 {
 	font-size: 1.3em;
 }
@@ -348,6 +352,10 @@ button {
 		font-size: 1.1rem;
 	}
 
+	.mobile {
+		display: none;
+	}
+
 /****** DESKTOP NAVIGATION ******/
 
 	nav.header {
@@ -409,10 +417,6 @@ button {
 		height: 60vh;
 		padding: 0 0 0 8vw;
 		text-transform: uppercase;		
-	}
-
-	.hero.hero__home main h1 {
-		padding: 20vh 0 0 8vw;	
 	}
 
 	.hero__applications main {
