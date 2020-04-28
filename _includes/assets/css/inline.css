@@ -232,6 +232,10 @@ button {
 	width: 100%;
 }
 
+.hero.hero__difference main h1 {
+	font-size: 1.3em;
+}
+
 .hero.hero__testimonials main h1 {
 	font-size: 1.8em;
 	text-transform: none;
