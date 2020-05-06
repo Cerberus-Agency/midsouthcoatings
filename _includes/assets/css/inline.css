@@ -451,6 +451,8 @@ button {
 		margin-bottom: 2em;
 		transform: translateX(133%) translateY(-180px);
 		width: 40%;	
+		background: white;
+    	padding: 2em;
 	}
 
 	.hero main h1 {

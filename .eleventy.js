@@ -16,7 +16,6 @@ module.exports = function(eleventyConfig) {
     description: "COOLWALL&reg; is a next-gen exterior coating that looks great, for life. Available in over 570 beautifully heat reflective hues, these colors are guaranteed to last a lifetime.",
     url: "https://midsouthcoatings.com",
     author: "MidSouth Coatings",
-    twitter: "username",
     image: "/static/img/logo-msc.jpg"
   });
 
