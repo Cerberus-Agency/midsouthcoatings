@@ -450,15 +450,15 @@ button {
 	}
 
 	.hero .content p {
-		transform: translateX(133%) translateY(-180px);
+		transform: translateX(133%) translateY(-60px);
 		width: 40%;	
 		background: white;
-    	padding: 2em;
+    	padding: 2em 0 0 2em;
 	}
 
 	.hero main h1 {
 		font-size: 3.2vh;
-		height: 60vh;
+		height: 50vh;
 		padding: 0 0 0 8vw;
 		text-transform: uppercase;		
 	}
