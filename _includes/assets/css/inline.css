@@ -294,7 +294,7 @@ button {
 	font-family: "Tenor Sans", sans-serif;
 	font-size: 1.25em;
 	margin-top: 1em;
-	padding: 1em;
+	padding: .5em 1em;
 	text-transform: uppercase;
 }
 
@@ -356,6 +356,11 @@ button {
 		display: none;
 	}
 
+	.desktop {
+		display: block;
+	}
+
+
 /****** DESKTOP NAVIGATION ******/
 
 	nav.header {
@@ -379,6 +384,10 @@ button {
 
 	.space-around { 
 		justify-content: space-around; 
+	}
+
+	.space-between { 
+		justify-content: space-between; 
 	}
 
 	.summary, .image {
@@ -407,9 +416,28 @@ button {
 	     height: 81px; 
 	}
 
+	.mobile-menu {
+		display: flex;
+		margin-top: 0;
+	}
+
+	.hours {
+		font-size: .7em;
+	}
+
+	.request-quote {
+		white-space: nowrap;
+	}
+
+	.social {
+		display: block;
+		margin: .5em 0;
+		text-align: right;
+	}
+
 	.hero .content p {
 		margin-bottom: 2em;
-		transform: translateX(133%) translateY(-60px);
+		transform: translateX(133%) translateY(-180px);
 		width: 40%;	
 	}
 
@@ -417,6 +445,12 @@ button {
 		height: 60vh;
 		padding: 0 0 0 8vw;
 		text-transform: uppercase;		
+	}
+
+	.hero__home main {
+		background: url(/static/img/MSC-homepage-hero-MOBILE.jpg) center top no-repeat;
+		background-size: contain;
+		padding: 20vh 0 0 8vh;
 	}
 
 	.hero__applications main {
