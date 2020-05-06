@@ -273,7 +273,7 @@ button {
 .hero__home main {
 	background: url(/static/img/MSC-homepage-hero-MOBILE.jpg) center top no-repeat;
 	background-size: contain;
-	padding: 20vh 0 85vh 8vh;
+	padding: 4vh 0 85vh 5vw;
 }
 
 .hero__testimonials main {
@@ -283,10 +283,6 @@ button {
 
 .content img {
 	width: 100%; /* I know, I know, this is going to be too powerful. */
-}
-
-.content p { 
-	margin-bottom: 2em;
 }
 
 .request-quote {
@@ -323,12 +319,17 @@ button {
 	text-align: center;
 }
 
-.color-chart div span {
+.color-chart div span.color-swatch {
 	display: block;
 	border-radius: 2rem;
 	height: 4rem;
 	width: 4rem;
 	margin: 1rem auto;	
+}
+
+.color-name {
+	display: block;
+	font-weight: 600;
 }
 
 /****** REVIEWS ******/
@@ -448,7 +449,6 @@ button {
 	}
 
 	.hero .content p {
-		margin-bottom: 2em;
 		transform: translateX(133%) translateY(-180px);
 		width: 40%;	
 		background: white;
