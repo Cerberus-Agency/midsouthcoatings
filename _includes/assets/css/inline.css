@@ -273,7 +273,7 @@ button {
 .hero__home main {
 	background: url(/static/img/MSC-homepage-hero-MOBILE.jpg) center top no-repeat;
 	background-size: contain;
-	padding: 4vh 0 85vh 5vw;
+	padding: 4vh 0 0 5vw;
 }
 
 .hero__testimonials main {
@@ -287,9 +287,10 @@ button {
 
 .request-quote {
 	border: 1px solid var(--primary);
+	display: block;
 	font-family: "Tenor Sans", sans-serif;
 	font-size: 1.25em;
-	margin-top: 1em;
+	margin: 1em 0 2em;
 	padding: .5em 1em;
 	text-transform: uppercase;
 	transition: background .2s ease, color .2s ease;
