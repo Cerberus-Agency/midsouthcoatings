@@ -483,6 +483,10 @@ button {
 		background-size: contain;
 	}
 
+	.hero.hero__difference main h1 {
+	    font-size: 3.2vh;
+	}
+
 	.hero__home main {
 		background: url(/static/img/MSC-homepage-hero.jpg) center top no-repeat;
 		background-size: contain;
