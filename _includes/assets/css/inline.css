@@ -287,7 +287,7 @@ button {
 
 .request-quote {
 	border: 1px solid var(--primary);
-	display: block;
+	display: inline-block;
 	font-family: "Tenor Sans", sans-serif;
 	font-size: 1.25em;
 	margin: 1em 0 2em;
@@ -439,7 +439,7 @@ button {
 	}
 
 	.desktop-menu .request-quote {
-		margin-top: 0;
+		margin: 0;
 		white-space: nowrap;
 	}
 
