@@ -296,6 +296,13 @@ button {
 	margin-top: 1em;
 	padding: .5em 1em;
 	text-transform: uppercase;
+	transition: background .2s ease, color .2s ease;
+}
+
+.request-quote:hover {
+	background: var(--primary);
+	color: white;
+	text-decoration: none;
 }
 
 /****** COLOR CHART ******/
@@ -425,7 +432,12 @@ button {
 		font-size: .7em;
 	}
 
-	.request-quote {
+	.desktop-menu {
+		margin-top: 1em;
+	}
+
+	.desktop-menu .request-quote {
+		margin-top: 0;
 		white-space: nowrap;
 	}
 
@@ -442,6 +454,7 @@ button {
 	}
 
 	.hero main h1 {
+		font-size: 3.2vh;
 		height: 60vh;
 		padding: 0 0 0 8vw;
 		text-transform: uppercase;		
