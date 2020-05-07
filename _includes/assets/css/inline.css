@@ -90,13 +90,14 @@ a.phone-number {
 }
 
 .question {
-	color: var(--primary);
-	font-weight: 700;
-	transition: all .5s;
 	border: 1px solid var(--primary);
 	border-radius: 10px;
+	color: var(--primary);
+	cursor: pointer;
+	font-weight: 700;
 	margin: .5em 0;
 	padding: .5em;
+	transition: all .5s;
 }
 
 .answer p {
@@ -320,6 +321,7 @@ button {
 
 .color-chart h2 {
 	flex-basis: 100%;
+	text-align: center;
 }
 
 .color-chart div {
@@ -491,6 +493,7 @@ button {
 	.hero__color-chart main {
 		background: url(/static/img/MSC-colorchartfinderpage-hero.jpg) center top no-repeat;
 		background-size: contain;
+		padding: 20vh 0 0 8vh;
 	}
 
 	.hero__difference main {
@@ -512,7 +515,7 @@ button {
 		background-size: contain;
 	}
 
-	/****** CoLOR chart ******/
+	/****** COlOR CHART ******/
 
 	.color-chart div {
 		flex-basis: 16.66%;

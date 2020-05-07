@@ -18,10 +18,17 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   var allPanels = $('.answer').hide();
-    
-  $('.question').click(function() {
-    allPanels.slideUp();
-    $(this).next().slideDown("slow");
+  
+    $('.question').click(function() {
+    $this = $(this);
+    $target =  $this.next();
+    console.log($this, $target);
+
+    if(!$target.hasClass('active')){
+       allPanels.removeClass('active').slideUp();
+       $target.addClass('active').slideDown();
+    }
     return false;
   });
 });
+
