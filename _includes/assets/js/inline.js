@@ -22,7 +22,6 @@ $(document).ready(function(){
     $('.question').click(function() {
     $this = $(this);
     $target =  $this.next();
-    console.log($this, $target);
 
     if($target.hasClass('active')){
        $target.removeClass('active').slideUp();
