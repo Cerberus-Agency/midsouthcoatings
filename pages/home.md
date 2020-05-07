@@ -1,7 +1,7 @@
 ---
 layout: layouts/hero.njk
 title: Home
-excerpt: COOLWALL&reg; is a next-gen exterior coating that looks great, for life. Available in over 570 beautifully heat reflective hues, these colors are guaranteed to last a lifetime.
+excerpt: COOLWALL® is a next-gen exterior coating that looks great, for life. Available in over 570 beautifully heat reflective hues, these colors are guaranteed to last a lifetime.
 permalink: /
 eleventyNavigation:
   key: Home
