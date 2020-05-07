@@ -394,7 +394,7 @@ button {
 	}
 
 	nav.header.is-active {
-		transform: translateY(0);
+		transform: translateY(-5%); /* this should be 0, this is a temp fix...he said */
 	}
 
 	.flex {
