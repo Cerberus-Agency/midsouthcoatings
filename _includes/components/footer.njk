@@ -1,7 +1,7 @@
 <footer class="flex space-around">
   <img class="logo" src="/static/img/logo-msc-white.svg" alt="MidSouth Coatings logo">
   <nav class="footer">
-	  {% set navPages = collections.all | eleventyNavigation %}
+	  {# set navPages = collections.all | eleventyNavigation #}
 	  {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
   </nav>
   <small>Copyright &copy 2020 MidSouth Coatings, LLC</small>

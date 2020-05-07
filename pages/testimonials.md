@@ -4,7 +4,8 @@ title: Testimonials
 permalink: testimonials/index.html
 eleventyNavigation:
   key: Testimonials
-  order: 7
+  order: 6
+
 ---
 
 

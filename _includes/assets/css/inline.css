@@ -157,8 +157,14 @@ nav.header li a {
 	text-transform: uppercase;
 }
 
-nav.header li a[href]:not(:hover) {
+nav.header li a[href] {
 	text-decoration: none;
+	transition: all .2s ease;
+}
+
+nav.header li a[href]:hover {
+	background: var(--primary);
+	color: white;
 }
 
 nav.header li a[data-current="current item"] {
@@ -315,6 +321,11 @@ button {
 
 /****** COLOR CHART ******/
 
+.hero__color-chart .content p {
+	font-size: 0.85em;
+    line-height: 1.6;
+}
+
 .color-chart {
 	display: flex;
 	flex-wrap: wrap;	
@@ -327,7 +338,7 @@ button {
 }
 
 .color-chart div {
-	flex-basis: 20%;
+	flex-basis: 25%;
 	font-size: .75em;
 	text-align: center;
 }
@@ -466,25 +477,6 @@ button {
 		text-align: right;
 	}
 
-	.hero .content p {
-		transform: translateX(133%) translateY(-60px);
-		width: 40%;	
-		background: white;
-    	padding: 2em 0 0 2em;
-	}
-
-	.hero main h1 {
-		font-size: 3.2vh;
-		height: 50vh;
-		padding: 0 0 0 8vw;
-		text-transform: uppercase;		
-	}
-
-	.hero__home main {
-		background: url(/static/img/MSC-homepage-hero-MOBILE.jpg) center top no-repeat;
-		background-size: contain;
-		padding: 20vh 0 0 8vh;
-	}
 
 	.hero__applications main {
 		background: url(/static/img/MSC-coolwallapps-hero.jpg) center top no-repeat;
@@ -494,22 +486,11 @@ button {
 	.hero__color-chart main {
 		background: url(/static/img/MSC-colorchartfinderpage-hero.jpg) center top no-repeat;
 		background-size: contain;
-		padding: 20vh 0 0 8vh;
 	}
 
 	.hero__difference main {
 		background: url(/static/img/MSC-coolwalldiff-hero.jpg) center top no-repeat;
 		background-size: contain;
-	}
-
-	.hero.hero__difference main h1 {
-	    font-size: 3.2vh;
-	}
-
-	.hero.hero__testimonials main h1 {
-		font-size: 1.8em;
-		text-transform: none;
-	    width: 55%;
 	}
 
 	.hero__home main {
@@ -522,7 +503,53 @@ button {
 		background-size: contain;
 	}
 
+	.hero main h1 {
+		font-size: 3.2vh;
+		height: 50vh;
+		padding: 0 0 0 8vw;
+		text-transform: uppercase;		
+	}
+
+	.hero__home main h1 {
+		padding: 20vh 0 0 8vw;
+	}
+
+	.hero__color-chart main h1 {
+		padding: 20vh 0 0 8vw;
+	}
+
+	.hero.hero__applications main h1 {
+	    padding: 20vh 0 0 8vw;
+	}
+
+	.hero.hero__difference main h1 {
+	    font-size: 3.2vh;
+	}
+
+	.hero.hero__testimonials main h1 {
+		font-size: 1.8em;
+		text-transform: none;
+	    width: 55%;
+	}
+
+	.hero .content p {
+		transform: translateX(133%) translateY(-60px);
+		width: 40%;	
+		background: white;
+    	padding: 2em 0 0 2em;
+	}
+
+	/****** APPLICATIONS ******/
+
+	.hero__applications .content p {
+	    transform: translateX(133%) translateY(60px);
+	}
+
 	/****** COlOR CHART ******/
+
+	.hero__color-chart .content p {
+		transform: translateX(133%) translateY(-170px);
+	}
 
 	.color-chart div {
 		flex-basis: 16.66%;
