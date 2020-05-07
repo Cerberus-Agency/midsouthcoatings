@@ -90,13 +90,13 @@ a.phone-number {
 }
 
 .question {
-	border: 1px solid var(--primary);
-	border-radius: 10px;
+	background: url(/static/img/MSC-FAQ-caret.svg) left center no-repeat;
+	background-size: 1em;
 	color: var(--primary);
 	cursor: pointer;
 	font-weight: 700;
 	margin: .5em 0;
-	padding: .5em;
+	padding: .5em 0 .5em 1.5em;
 	transition: all .5s;
 }
 

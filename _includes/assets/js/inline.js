@@ -24,11 +24,17 @@ $(document).ready(function(){
     $target =  $this.next();
     console.log($this, $target);
 
+    if($target.hasClass('active')){
+       $target.removeClass('active').slideUp();
+       return false;
+    } else {
+
     if(!$target.hasClass('active')){
        allPanels.removeClass('active').slideUp();
        $target.addClass('active').slideDown();
     }
     return false;
+    }
   });
 });
 
