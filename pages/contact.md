@@ -19,8 +19,8 @@ TO CONTACT US, OR TO SCHEDULE A FREE IN-HOME CONSULTATION, CALL (855) 828-2683, 
   <label for="email">Email</label>
   <input type="email" name="email" id="email" autocomplete="email" placeholder="Your email address" title="The domain portion of the email address is invalid (the portion after the @)." pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$" required>
   <input type="text" name="address" id="address" autocomplete="address" placeholder="Your address" title="Please enter your address" required>
-  <input type="text" name="address" id="address" autocomplete="address" placeholder="Your address" title="Please enter your address" required>
-  <input type="phone" name="phone" id="phone" autocomplete="hpne" placeholder="" title="Please enter your phone number" required>
+<!--   <input type="text" name="address" id="address" autocomplete="address" placeholder="Your address" title="Please enter your address" required> -->
+  <input type="phone" name="phone" id="phone" autocomplete="hpne" placeholder="Your phone number" title="Please enter your phone number" required>
   <label for="message">Message</label>
   <textarea name="message" id="message" placeholder="Write your message here" rows="7" required></textarea>
   <label>Application: <select name="application[]" multiple>
