@@ -431,6 +431,10 @@ button {
 		flex-basis: 50%;
 	}
 
+	.linebreak {
+		display: block;
+	}
+
 	header {
 		z-index: 3;
 	}
@@ -476,7 +480,6 @@ button {
 		margin: .5em 0;
 		text-align: right;
 	}
-
 
 	.hero__applications main {
 		background: url(/static/img/MSC-coolwallapps-hero.jpg) center top no-repeat;
@@ -533,23 +536,29 @@ button {
 	}
 
 	.hero .content p {
-		transform: translateX(133%) translateY(-60px);
+		transform: translateX(133%);
 		width: 40%;	
 		background: white;
     	padding: 2em 0 0 2em;
 	}
 
-	/****** APPLICATIONS ******/
-
-	.hero__applications .content p {
-	    transform: translateX(133%) translateY(60px);
+	.hero .content p:first-of-type {
+		margin-top: 16vh;
 	}
+
+	.grid-container {
+	  	display: grid;
+	  	grid-template-columns: 1fr 1fr;
+	  	grid-template-rows: 1fr;
+	  	gap: 1em 10%;
+	  	grid-template-areas: "left right";
+	}
+
+	.left { grid-area: left; }
+
+	.right { grid-area: right; }
 
 	/****** COlOR CHART ******/
-
-	.hero__color-chart .content p {
-		transform: translateX(133%) translateY(-170px);
-	}
 
 	.color-chart div {
 		flex-basis: 16.66%;

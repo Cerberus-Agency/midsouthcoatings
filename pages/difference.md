@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ---
 
-# MidSouth Coating’s COOLWALL&reg; system is simply the most advanced exterior coating on the market today.
+# MidSouth Coating’s COOLWALL&reg; system is simply<span class="linebreak"></span> the most advanced exterior coating on the market today.
 
 In fact, COOLWALL&reg; uses the same heat reflective technology first developed by the military to reduce the heat signature of its combat vehicles. Our patented infrared heat reflective coatings not only provide for lower surface temperatures, each of our 570 COOLWALL&reg; [colors](/color-chart) is [guaranteed to protect and beautify for a lifetime](/difference/guarantee). And because our coatings stay much cooler than every other exterior coating solution, heat buildup is greatly reduced, which means less expansion and contraction stress. 
 
