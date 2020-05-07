@@ -38,6 +38,13 @@ h1 {
 	line-height: 1.2;
 }
 
+h2 {
+	color: var(--primary);
+	font-family: 'Tenor Sans', sans-serif;
+	font-size: 1.5em;
+	line-height: 1.2;
+}
+
 a[href],
 a[href]:visited {
 	color: var(--primary);
@@ -354,6 +361,12 @@ button {
 	font-size: 1rem;
 }
 
+/****** PROS ******/
+
+.steps p {
+	margin: 0 2em 3em 0;
+}
+
 /****** DESKTOP ******/
 
 @media screen and (min-width:768px) {
@@ -497,5 +510,35 @@ button {
 		background: url(/static/img/MSC-5starreviews-hero.jpg) center top no-repeat;
 		background-size: contain;
 	}
+
+	.grid-container.pros {
+	  	display: grid;
+	  	grid-template-columns: 1fr 1fr;
+	  	grid-template-rows: 1fr;
+	  	gap: 1em 10%;
+	  	grid-template-areas: "left right";
+	}
+
+	.left { grid-area: left; }
+
+	.right { grid-area: right; }
+
+	/****** PROS ******/
+
+	.grid-container.pros img {
+		width: auto;
+	}
+	.grid-container.pros .left p {
+		width: 80%;
+	}
+
+	.grid-container.pros .left img  {
+		width: 100%;
+	}
+
+	.steps p {
+		margin: 0 2em 3em 0;
+	}
+	
 }
 	
