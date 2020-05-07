@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: MidSouth Coatings Pros
+title: Pros
 permalink: /difference/pros/index.html
 eleventyNavigation:
   key: MidSouth Coatings Pros
