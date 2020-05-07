@@ -251,10 +251,10 @@ button {
 }
 
 .hero.hero__testimonials main h1 {
-	font-size: 1.8em;
-	text-transform: none;
-    width: 55%;
-}
+    font-size: 1em;
+    text-transform: none;
+    width: 100%;
+  }
 
 .hero.hero__testimonials main h1 span {
 	display: block;
@@ -504,6 +504,12 @@ button {
 
 	.hero.hero__difference main h1 {
 	    font-size: 3.2vh;
+	}
+
+	.hero.hero__testimonials main h1 {
+		font-size: 1.8em;
+		text-transform: none;
+	    width: 55%;
 	}
 
 	.hero__home main {
