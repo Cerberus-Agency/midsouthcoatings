@@ -348,8 +348,8 @@ a.request-quote[href]:hover {
 }
 
 .grid-container.pros .left img {
-		display: none;
-	}
+/*	display: none;*/
+}
 
 /****** COLOR CHART ******/
 
@@ -646,8 +646,9 @@ a.request-quote[href]:hover {
 	.grid-container.pros img {
 		width: auto;
 	}
+	
 	.grid-container.pros .left p {
-		width: 80%;
+		/*width: 80%;*/
 	}
 
 	.grid-container.pros .left img  {

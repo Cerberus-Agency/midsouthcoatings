@@ -15,7 +15,7 @@ Energy savings of up to 21.9% is based on the Department of Energy study <br>whi
 <div class="grid-container floor-and-deck">
 <div class="left">
 
-<p class="bleed-right">
+<p class="bleed-left">
 <img alt="image showing the difference between CoolWall coating and the competition" src="/static/img/MSC-energysavings-inset.jpg">
 </p>
 </div>
