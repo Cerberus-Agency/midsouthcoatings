@@ -603,6 +603,10 @@ a.request-quote[href]:hover {
 		margin-top: 16vh;
 	}
 
+	.left p:first-of-type, .right p:first-of-type {
+		margin-top: 0;
+	}
+
 	.grid-container {
 	  	display: grid;
 	  	grid-template-columns: 1fr 1fr;
