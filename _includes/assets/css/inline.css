@@ -79,7 +79,7 @@ sup {
     top: -1.2em;
 }
 
-.bleed-right {
+.bleed-left {
 	margin: 0 0 0 -2em;
 }
 
@@ -646,7 +646,7 @@ a.request-quote[href]:hover {
 	.grid-container.pros img {
 		width: auto;
 	}
-	
+
 	.grid-container.pros .left p {
 		/*width: 80%;*/
 	}
