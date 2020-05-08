@@ -8,9 +8,16 @@ eleventyNavigation:
     order: 2
 ---
 
-# BUSINESSES ACROSS THE GLOBE TRUST OUR COATINGS PRODUCTS.
+# BUSINESSES ACROSS THE GLOBE <span></span>TRUST OUR COATINGS PRODUCTS.
 
-![](/static/img/MSC-commercialapps-inset.jpg)
+<div class="grid-container floor-and-deck">
+<div class="leftt">
+
+<p class="bleed-left">
+<img src="/static/img/MSC-commercialapps-inset.jpg">
+</p>
+</div>
+<div class="right">
 
 Utilizing the same technology pioneered by the U.S. Military to reduce the heat signature of combat vehicles, COOLWALL® was created by one of the most advanced coatings manufacturers in the world, TEX-COTE<sup>&reg;</sup>. It’s no wonder more than 3,000 gallons of their products are applied around the world every day. From office buildings and retail stores, to warehouses and manufacturing facilities, to schools and churches, all benefit from superior protection from the elements while presenting a beautiful appearance that lasts.
 
@@ -23,3 +30,6 @@ Protecting your commercial property from the elements is the best way to preserv
 [RESIDENTIAL APPLICATIONS](/applications/residential) // [FLOOR & DECK COATING](/applications/floor-and-deck)
 
 <small>* Energy savings of up to 21.9% is based on the Department of Energy study which showed savings on homes with COOLWALL® ranged from 4.2% to 21.9%.</small>
+
+</div>
+</div>
