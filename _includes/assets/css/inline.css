@@ -127,6 +127,7 @@ a.phone-number {
 .answer p {
 	padding: 0 1em;
 }
+
 .answer li {
 	line-height: 1.5;
 }
@@ -345,6 +346,10 @@ a.request-quote[href]:hover {
 	color: white;
 	text-decoration: none;
 }
+
+.grid-container.pros .left img {
+		display: none;
+	}
 
 /****** COLOR CHART ******/
 
@@ -609,6 +614,14 @@ a.request-quote[href]:hover {
 	.left { grid-area: left; }
 
 	.right { grid-area: right; }
+
+	.grid-container.pros .right img {
+		display: none;
+	}
+
+	.grid-container.pros .right.display-images img {
+		display: block;
+	}
 
 	/****** COlOR CHART ******/
 
