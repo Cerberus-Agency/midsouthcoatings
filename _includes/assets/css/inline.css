@@ -428,6 +428,9 @@ a.request-quote[href]:hover {
 	.desktop {
 		display: block;
 	}
+	p {
+		max-width: 640px;
+	}
 
 
 /****** DESKTOP NAVIGATION ******/
