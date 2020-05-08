@@ -464,8 +464,14 @@ a.request-quote[href]:hover {
 	}
 
 	nav.header li ul li a {
+		color: black;
 		font-family: 'Roboto', sans-serif;
-		font-weight: 300;
+		font-size: .8em;
+		font-weight: 500;
+	}
+
+	ul.column {
+		margin: 0 6em 0 0;
 	}
 
 	footer {

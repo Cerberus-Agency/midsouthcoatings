@@ -1,4 +1,25 @@
-<nav class="header">
-  {% set navPages = collections.all | eleventyNavigation %}
-  {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+<nav class="header flex">
+<ul class="column">
+<li><a href="/color-chart/">CoolWall Color Chart</a></li>
+<li><a href="/difference/">The CoolWall Difference</a>
+	<ul>
+	<li><a href="/difference/guarantee/">Lifetime Guarantee</a></li>
+	<li><a href="/difference/energy-savings/">Energy Savings</a></li>
+	<li><a href="/difference/pros/">MidSouth Coatings Pros</a></li>
+	</ul>
+</li>
+</ul>
+<ul class="column">
+<li><a href="/applications/">CoolWall Applications</a>
+	<ul>
+	<li><a href="/applications/residential/">Residential Applications</a></li>
+	<li><a href="/applications/commercial/">Commercial Applications</a></li>
+	<li><a href="/applications/floor-and-deck/">Floor & Deck Coating</a></li>
+	</ul>
+</li>
+<li><a href="/service-area/">Service Area</a></li>
+<li><a href="/testimonials/">Testimonials</a></li>
+<li><a href="/faqs/">FAQs</a></li>
+<li><a href="/contact/">Contact</a></li>
+</ul>
 </nav>
