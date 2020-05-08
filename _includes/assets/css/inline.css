@@ -79,6 +79,10 @@ sup {
     top: -1.2em;
 }
 
+.bleed-right {
+	margin: 0 -2em 0 0;
+}
+
 li.copyright {
 	display: none;
 }
@@ -450,7 +454,7 @@ a.request-quote[href]:hover {
 		flex-basis: 50%;
 	}
 
-	.linebreak {
+	.linebreak, h1 span {
 		display: block;
 	}
 
