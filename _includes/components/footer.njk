@@ -1,8 +1,22 @@
-<footer class="flex space-around">
-  <img class="logo" src="/static/img/logo-msc-white.svg" alt="MidSouth Coatings logo">
-  <nav class="footer">
-	  {# set navPages = collections.all | eleventyNavigation #}
-	  {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
-  </nav>
-  <small>Copyright &copy 2020 MidSouth Coatings, LLC</small>
+<footer>
+<div class="flex space-around">
+  	<img class="logo" src="/static/img/logo-msc-white.svg" alt="MidSouth Coatings logo">
+	<nav class="footer">
+		<ul class="col-1">
+			<li><a href="/color-chart/">CoolWall Color Chart</a></li>
+			<li><a href="/difference/">The CoolWall Difference</a></li>
+			<li><a href="/applications/">CoolWall Applications</a></li>
+			<li><a href="/service-area/">Service Area</a></li>
+			<li class="copyright"><small>Copyright &copy 2020 MidSouth Coatings, LLC</small></li>
+		</ul>
+	</nav>
+	<nav class="footer">
+		<ul class="col-2">
+			<li><a href="/testimonials/">Testimonials</a></li>
+			<li><a href="/faqs/">FAQs</a></li>
+			<li><a href="/contact/">Contact</a></li>
+		</ul>
+	</nav>
+	</div>
+	<small class="mobile">Copyright &copy 2020 MidSouth Coatings, LLC</small>
 </footer>
