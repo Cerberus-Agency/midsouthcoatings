@@ -11,7 +11,7 @@ eleventyNavigation:
 # FAQs
 
 <div class="question">
-What’s the difference between COOLWALL&reg; and other coatings that use ceramic microspheres?
+What’s the difference between COOLWALL<sup>&reg;</sup> and other coatings that use ceramic microspheres?
 </div>
 
 <div class="answer">
@@ -24,20 +24,20 @@ Some companies selling coatings with embedded ceramic micro-spheres base their e
 
 Other manufacturers claim their ceramic micro-spheres reflect heat to reduce the temperature of the wall to which they are applied. But they only conducted tests using white coatings, which achieved no more reflective values than a non-ceramic coating of the same color.
 
-TEX-COTE&reg; COOLWALL&reg; DELIVERS PROVEN PERFORMANCE
+TEX-COTE<sup>&reg;</sup> COOLWALL<sup>&reg;</sup> DELIVERS PROVEN PERFORMANCE
 
-MidSouth Coatings’ patented TEX-COTE&reg; coating product uses advanced reflective pigments to actually achieve the results that are only claimed by micro-sphere-based coatings. The pigments we use in our coatings use technology developed for the U.S. Navy and the reflective coatings found on advanced “stealth” aircraft. They work.
+MidSouth Coatings’ patented TEX-COTE<sup>&reg;</sup> coating product uses advanced reflective pigments to actually achieve the results that are only claimed by micro-sphere-based coatings. The pigments we use in our coatings use technology developed for the U.S. Navy and the reflective coatings found on advanced “stealth” aircraft. They work.
 
-A study by the U.S. Department of Energy has proven that “solar radiation control is an effective means to decrease energy needs for cooling.” COOLWALL&reg; coatings reflects a significant percentage of non-visible infrared heat to keep the underlying wall cooler, while still allowing a choice of vibrant colors. Don’t be fooled by unproven claims made by other exterior coatings. Only TEX-COTE&reg; from MidSouth Coatings provides proven protection and energy savings.
+A study by the U.S. Department of Energy has proven that “solar radiation control is an effective means to decrease energy needs for cooling.” COOLWALL<sup>&reg;</sup> coatings reflects a significant percentage of non-visible infrared heat to keep the underlying wall cooler, while still allowing a choice of vibrant colors. Don’t be fooled by unproven claims made by other exterior coatings. Only TEX-COTE<sup>&reg;</sup> from MidSouth Coatings provides proven protection and energy savings.
 </div>
 
 <div class="question">
-What makes COOLWALL&reg; a green product? 
+What makes COOLWALL<sup>&reg;</sup> a green product? 
 </div>
 
 <div class="answer">
 
-While most coatings claim to be green by cutting VOCs, only COOLWALL&reg; cuts emissions through reflectivity, utilizes recycled materials, and helps reduce cooling costs. This next-gen exterior coatings product manufactured by TEX-COTE&reg;:
+While most coatings claim to be green by cutting VOCs, only COOLWALL<sup>&reg;</sup> cuts emissions through reflectivity, utilizes recycled materials, and helps reduce cooling costs. This next-gen exterior coatings product manufactured by TEX-COTE<sup>&reg;</sup>:
 
 - contains heat reflective properties to reduce surface temperatures and can provide for cooling cost energy savings
 - has heat reflective technology that also leads to increased durability and fade resistance due to less expansion and contraction stress on the coating, greatly extending the product life-cycle
@@ -51,47 +51,47 @@ While most coatings claim to be green by cutting VOCs, only COOLWALL&reg; cuts e
 - was tested and proven by the U.S. Department of Energy’s Oak Ridge National Laboratory to reduce cooling costs up to 21.9%\*. 
 
 
-TEX-COTE is dedicated to leading the paint and coatings industry in becoming a true “green” manufacturing company and reducing the impact that we all have on the environment. From incorporating recycled content into our product line, to the cooling cost energy savings that can be obtained through COOLWALL&reg; heat reflective coatings, TEX-COTE&reg; is dedicated to working towards a more sustainable future for everyone.
+TEX-COTE is dedicated to leading the paint and coatings industry in becoming a true “green” manufacturing company and reducing the impact that we all have on the environment. From incorporating recycled content into our product line, to the cooling cost energy savings that can be obtained through COOLWALL<sup>&reg;</sup> heat reflective coatings, TEX-COTE<sup>&reg;</sup> is dedicated to working towards a more sustainable future for everyone.
 
-<small>Energy savings of up to 21.9% is based on the Department of Energy study which showed savings on homes with COOLWALL&reg; ranged from 4.2% to 21.9%.</small>
+<small>Energy savings of up to 21.9% is based on the Department of Energy study which showed savings on homes with COOLWALL<sup>&reg;</sup> ranged from 4.2% to 21.9%.</small>
 </div>
 
 <div class="question">
-Is COOLWALL&reg; really any better than premium traditional paints and other home exterior coating options?
+Is COOLWALL<sup>&reg;</sup> really any better than premium traditional paints and other home exterior coating options?
 </div>
 
 <div class="answer">
 
-Yes, and it’s not even close. The [COOLWALL&reg; System](/difference) with Kynar Infrared Technology comes in more than 570 colors, each specially formulated to reflect solar heat without fading. The ability of COOLWALL&reg; to keep wall surfaces cooler is based on its ability to reflect a much greater percentage of the non-visible portion of the spectrum relatively unaffected. No regular paint or other coatings can do that.
+Yes, and it’s not even close. The [COOLWALL<sup>&reg;</sup> System](/difference) with Kynar Infrared Technology comes in more than 570 colors, each specially formulated to reflect solar heat without fading. The ability of COOLWALL<sup>&reg;</sup> to keep wall surfaces cooler is based on its ability to reflect a much greater percentage of the non-visible portion of the spectrum relatively unaffected. No regular paint or other coatings can do that.
 
-COOLWALL&reg; is thicker than regular paint (how much thicker depends upon the application) and when applied with [MidSouth Coating’s professional 10-step installation process](/difference/pros), provides a home’s exterior with maximum protection against the elements. COOLWALL&reg; waterproofs the home while allowing it to breathe and release moisture. The resin in this advanced exterior home coating with Kynar is thermoplastic, so it expands and contracts with the surface of the home, eliminating cracking, splitting, peeling, or coming loose. Finally, the COOLWALL&reg; System comes with a [lifetime warranty](/difference/guarantee).
+COOLWALL<sup>&reg;</sup> is thicker than regular paint (how much thicker depends upon the application) and when applied with [MidSouth Coating’s professional 10-step installation process](/difference/pros), provides a home’s exterior with maximum protection against the elements. COOLWALL<sup>&reg;</sup> waterproofs the home while allowing it to breathe and release moisture. The resin in this advanced exterior home coating with Kynar is thermoplastic, so it expands and contracts with the surface of the home, eliminating cracking, splitting, peeling, or coming loose. Finally, the COOLWALL<sup>&reg;</sup> System comes with a [lifetime warranty](/difference/guarantee).
 </div>
 
 <div class="question">
-How much can I save on my cooling costs with COOLWALL&reg;? 
+How much can I save on my cooling costs with COOLWALL<sup>&reg;</sup>? 
 </div>
 
 <div class="answer">
 
-COOLWALL&reg; has been tested by the U.S. Department of Energy’s Oak Ridge National Laboratory to [reduce cooling costs by up to 21.9%\*](/difference/energy-savings) (a DOE study showed savings ranging from 4.2 – 21.9%). The percentage of cooling costs and surface temperature reductions will vary based on color chosen, geographical location, climate conditions, and substrate type. The more the AC unit ran before COOLWALL&reg; was applied, the more homeowners will save. In the Gulf Coast region, the savings are more substantial than the north.
+COOLWALL<sup>&reg;</sup> has been tested by the U.S. Department of Energy’s Oak Ridge National Laboratory to [reduce cooling costs by up to 21.9%\*](/difference/energy-savings) (a DOE study showed savings ranging from 4.2 – 21.9%). The percentage of cooling costs and surface temperature reductions will vary based on color chosen, geographical location, climate conditions, and substrate type. The more the AC unit ran before COOLWALL<sup>&reg;</sup> was applied, the more homeowners will save. In the Gulf Coast region, the savings are more substantial than the north.
 </div>
 
 <div class="question">
-What if I can’t find the exact COOLWALL&reg; color I want? 
+What if I can’t find the exact COOLWALL<sup>&reg;</sup> color I want? 
 </div>
 
 <div class="answer">
 
-The COOLWALL&reg; System comes in more than 570 beautifully resilient colors, but if you need MidSouth Coatings to mix a special color for you, we’re ready, willing, and able to accommodate any request. Don’t forget to try our [COOLWALL&reg; color finder](color-chart) first.
+The COOLWALL<sup>&reg;</sup> System comes in more than 570 beautifully resilient colors, but if you need MidSouth Coatings to mix a special color for you, we’re ready, willing, and able to accommodate any request. Don’t forget to try our [COOLWALL<sup>&reg;</sup> color finder](color-chart) first.
 </div>
 
 <div class="question">
-How long will my COOLWALL&reg; color last? 
+How long will my COOLWALL<sup>&reg;</sup> color last? 
 </div>
 
 <div class="answer">
 
-The COOLWALL&reg; system is designed to last a lifetime. Testing in the manufacturer’s state-of-the-art xenon weathering chamber showed the COOLWALL&reg; system was still performing beautifully after the equivalent of more than 10 years exposure, with no end in sight. 
+The COOLWALL<sup>&reg;</sup> system is designed to last a lifetime. Testing in the manufacturer’s state-of-the-art xenon weathering chamber showed the COOLWALL<sup>&reg;</sup> system was still performing beautifully after the equivalent of more than 10 years exposure, with no end in sight. 
 </div>
 
 

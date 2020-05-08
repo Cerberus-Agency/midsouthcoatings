@@ -67,6 +67,14 @@ footer small {
 	margin-left: 3.5em;
 }
 
+sup {
+    position: relative;
+    font-size: 40%;
+    line-height: 0;
+    vertical-align: baseline;
+    top: -1.2em;
+}
+
 .social, .main-nav {
 	display: flex;
 	justify-content: space-between;
@@ -453,8 +461,14 @@ button {
 	    height: 91px;
 	}
 
+
+	.mainlink {
+	     transform: translateX(-97px);
+	}
+
 	.mainlink img {
 	     height: 81px; 
+	     width: 195px;
 	}
 
 	.mobile-menu {

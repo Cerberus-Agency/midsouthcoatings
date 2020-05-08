@@ -13,9 +13,9 @@ permalink: /color-finder/index.html
 
 FIELD:	#1NAME, #2EMAIL ADDRESS, #3PHONE NUMBER (either field #2 or #3 is required to begin)
 
-Before COOLWALLL&reg; colors were introduced in the market, homeowners typically selected lighter colors for their ability to reflect much of the sun’s radiant energy back into the atmosphere. Today, more and more homeowners are choosing darker COOLWALL® colors because of their heat reflective properties and superior fade resistance. If you can’t find your perfect color, let us know and we’ll work with you to create your own custom color.
+Before COOLWALLL<sup>&reg;</sup> colors were introduced in the market, homeowners typically selected lighter colors for their ability to reflect much of the sun’s radiant energy back into the atmosphere. Today, more and more homeowners are choosing darker COOLWALL® colors because of their heat reflective properties and superior fade resistance. If you can’t find your perfect color, let us know and we’ll work with you to create your own custom color.
 
-Once you find your ideal COOLWALL&reg; colors, we’ll email you a snapshot to share with your friends and family. 
+Once you find your ideal COOLWALL<sup>&reg;</sup> colors, we’ll email you a snapshot to share with your friends and family. 
 
 BUTTON:	SHARE NOW
 

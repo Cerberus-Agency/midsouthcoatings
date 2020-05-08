@@ -32,7 +32,7 @@ We derive great satisfaction in helping our neighbors make their homes more comf
 
 # MIDSOUTH COATINGS’ 10-STEP PROCESS DELIVERS A GREAT RESULT. EVERY TIME.
 
-Only MidSouth Coatings offers the next-gen [COOLWALL&reg; system](/difference), the most advanced exterior home coating on the market today. Our 10-step process ensures that your residential or commercial exterior application will be completed proficiently and on-time. Nobody beats our [lifetime guarantee](/difference/guarantee), and nobody pays as much attention to the details as MidSouth Coatings. Trust us to provide a professional application and eliminate the high cost and hassle of repeatedly painting your home, forever. 
+Only MidSouth Coatings offers the next-gen [COOLWALL<sup>&reg;</sup> system](/difference), the most advanced exterior home coating on the market today. Our 10-step process ensures that your residential or commercial exterior application will be completed proficiently and on-time. Nobody beats our [lifetime guarantee](/difference/guarantee), and nobody pays as much attention to the details as MidSouth Coatings. Trust us to provide a professional application and eliminate the high cost and hassle of repeatedly painting your home, forever. 
 </div>
 <div class="right"></div>
 </div>
@@ -55,17 +55,17 @@ Only MidSouth Coatings offers the next-gen [COOLWALL&reg; system](/difference), 
 
 **STEP 3: PRESSURE WASHING** Using a powerful press washing system, our pros will thoroughly clean your home’s exterior, carefully removing any loose dirt for a smooth surface.
 
-**STEP 4: REPAIR & PATCH**  Our expert craftsmen will repair or patch any damaged or deteriorated areas identified during our inspection using our specially formulated filler, TEX-BOND&reg; & FLEX PATCH&reg; products.
+**STEP 4: REPAIR & PATCH**  Our expert craftsmen will repair or patch any damaged or deteriorated areas identified during our inspection using our specially formulated filler, TEX-BOND<sup>&reg;</sup> & FLEX PATCH<sup>&reg;</sup> products.
 
 **STEP 5: MASKING** Very few home exterior coatings companies or painters take the time to perform this important step. We carefully cover and mask all surfaces that are not being coated, including windows, doors, lawn, shrubs, walkways and driveways.
 
-**STEP 6: PRIMER APPLICATION** Operating at a pressure of up to 3,000 psi, our team completely and thoroughly applies a coat of our COOLWALL&reg; primer, a product so innovative, it set the industry standard.
+**STEP 6: PRIMER APPLICATION** Operating at a pressure of up to 3,000 psi, our team completely and thoroughly applies a coat of our COOLWALL<sup>&reg;</sup> primer, a product so innovative, it set the industry standard.
 
 **STEP 7: INSPECTION** Before the next coat is applied, we carefully reinspect the entire exterior to ensure full, uniform, and proper coverage.
 
-**STEP 8: COOLWALL&reg; SUPERCOAT** Our pros apply your COOLWALL&reg; color to exterior walls in the proper and uniform thickness to ensure lasting, durable protection that’s [guaranteed to last a lifetime](/difference/guarantee).
+**STEP 8: COOLWALL<sup>&reg;</sup> SUPERCOAT** Our pros apply your COOLWALL<sup>&reg;</sup> color to exterior walls in the proper and uniform thickness to ensure lasting, durable protection that’s [guaranteed to last a lifetime](/difference/guarantee).
 
-**STEP 9: TRIM-COTE&reg;** Once the exterior walls are thoroughly covered, our experienced team inspects, repairs, caulks, primes and applies a specially formulated and patented TRIM-COTE&reg; product to the home’s trim around windows, doors, and edges.
+**STEP 9: TRIM-COTE<sup>&reg;</sup>** Once the exterior walls are thoroughly covered, our experienced team inspects, repairs, caulks, primes and applies a specially formulated and patented TRIM-COTE<sup>&reg;</sup> product to the home’s trim around windows, doors, and edges.
 
 **STEP 10: CLEAN-UP / FINAL INSPECTION** Our crew performs a complete clean-up and final inspection of the worksite. Then, we walk the house with you to make sure you are 100% satisfied with all our efforts.
 
