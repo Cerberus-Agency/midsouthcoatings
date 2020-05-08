@@ -13,7 +13,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPlugin(pluginSEO, {
     title: "MidSouth Coatings",
-    description: "COOLWALL&reg; is a next-gen exterior coating that looks great, for life. Available in over 570 beautifully heat reflective hues, these colors are guaranteed to last a lifetime.",
+    description: "COOLWALL is a next-gen exterior coating that looks great, for life. Available in over 570 beautifully heat reflective hues, these colors are guaranteed to last a lifetime.",
     url: "https://midsouthcoatings.com",
     author: "MidSouth Coatings and Cerberus Agency",
     image: "/static/img/logo-msc.jpg"
