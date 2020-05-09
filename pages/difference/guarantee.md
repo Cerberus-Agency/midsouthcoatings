@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ---
 
-# CONFIDENCE, TRUST, AND A LIFETIME WARRANTY ON COOLWALL<sup><sup>&reg;</sup></sup> RESIDENTiAL EXTERIOR COATINGS. 
+# CONFIDENCE, TRUST, AND A LIFETIME WARRANTY ON COOLWALL<sup><sup>&reg;</sup></sup> RESIDENTIAL EXTERIOR COATINGS. 
 
 <div class="grid-container floor-and-deck">
 <div class="right">
