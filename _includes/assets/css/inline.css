@@ -615,7 +615,7 @@ a.request-quote[href]:hover {
 		transform: translateX(133%);
 		width: 40%;	
 		background: white;
-    	padding: 2em 0 0 2em;
+    	padding: 2em 2em 0 2em;
 	}
 
 	.left p:first-of-type, .right p:first-of-type {
