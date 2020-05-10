@@ -514,9 +514,9 @@ a.request-quote[href]:hover {
 		display: block;
 	}
 
-	.mainlink {
-	     transform: translateX(-97px);
-	}
+/*	.mainlink {
+	     transform: translateX(-97px); /* this ain't the way...
+	}*/
 
 	.mainlink img {
 	     height: 81px; 
