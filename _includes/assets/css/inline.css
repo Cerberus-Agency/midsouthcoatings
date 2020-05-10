@@ -342,7 +342,7 @@ button {
 }
 
 header.mobile a.request-quote {
-	font-size: .85em;
+	font-size: .75em;
 }
 
 a.request-quote[href]:hover {
