@@ -326,6 +326,12 @@ button {
 	background-size: contain;
 }
 
+.hero .content p {
+	background: white;
+	padding: 2em 0 0 2em;
+    margin: 0;
+}
+
 .content img {
 	width: 100%; /* I know, I know, this is going to be too powerful. */
 }
