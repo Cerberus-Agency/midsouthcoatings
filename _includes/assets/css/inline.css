@@ -342,6 +342,7 @@ button {
 }
 
 header.mobile a.request-quote {
+	display: none;
 	font-size: .75em;
 }
 
