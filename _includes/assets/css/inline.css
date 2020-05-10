@@ -340,11 +340,15 @@ button {
 	border: 1px solid var(--primary);
 	display: inline-block;
 	font-family: "Tenor Sans", sans-serif;
-	font-size: 2vh;
+	font-size: 2em;
 	margin: 1em 0 2em;
 	padding: .5em 1em;
 	text-transform: uppercase;
 	transition: background .2s ease, color .2s ease;
+}
+
+header .request-quote {
+	font-size: 2vh;
 }
 
 header.mobile a.request-quote {
