@@ -59,6 +59,16 @@ a[href]:not(:hover) {
 	text-decoration: none;
 }
 
+.link-subsection {
+	background: url(/static/img/MSC-FAQ-caret.svg) right center no-repeat;
+	background-size: 1em;
+	display: block;
+	font-family: 'Tenor Sans',sans-serif;
+    font-size: 1.2em;
+    padding: .1em 1.5em 0 0;
+    text-align: right;
+}
+
 small {
 	color: var(--primary);
 	display: block;

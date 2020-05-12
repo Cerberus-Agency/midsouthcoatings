@@ -24,6 +24,7 @@ Perfect for concrete and wood decks, walkways, patios, pool decks, and balconies
 
 Ideal for restoring worn or weathered concrete or wood deck surfaces, COOL-TEC<sup>&reg;</sup> is thicker than ordinary coatings and does a superior job filling hairline cracks, covering splinters, and hiding all manner of flooring and deck imperfections. COOL-TEC<sup>&reg;</sup> is [available in over 570 heat-reflective colors](/color-chart), ensuring an ideal color match to your home or business design. With a five-year product warranty against defects, this advanced formulation incorporates glass microspheres that deliver superior scratch, abrasion, and burnish resistance.
 
-[RESIDENTIAL APPLICATIONS](/applications/residential) // [COMMERCIAL APPLICATIONS](/applications/commercial)
+<a class="link-subsection" href="/applications/residential">RESIDENTIAL APPLICATIONS</a>
+<a class="link-subsection" href="/applications/commercial">COMMERCIAL APPLICATIONS</a>
 </div>
 </div>

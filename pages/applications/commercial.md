@@ -27,7 +27,8 @@ MidSouth Coatings provides businesses across the Gulf South with complete start-
 
 Protecting your commercial property from the elements is the best way to preserve and protect your investment. Smart property owners choose MidSouth Coatings to provide a lifetime of superior protection and significant energy savings, delivering all the benefits of high-grade exterior painting that competitive businesses need to attract customers, such as a range of colors and finish options (smooth, sand, fine, coarse). All this, and it’s backed by a powerful manufacturer’s warranty.
 
-[RESIDENTIAL APPLICATIONS](/applications/residential) // [FLOOR & DECK COATING](/applications/floor-and-deck)
+<a class="link-subsection" href="/applications/residential">RESIDENTIAL APPLICATIONS</a>
+<a class="link-subsection" href="/applications/floor-and-deck">FLOOR & DECK COATING</a>
 
 <small>* Energy savings of up to 21.9% is based on the Department of Energy study which showed savings on homes with COOLWALL® ranged from 4.2% to 21.9%.</small>
 
