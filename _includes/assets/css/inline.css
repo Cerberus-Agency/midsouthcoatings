@@ -69,6 +69,10 @@ a[href]:not(:hover) {
     text-align: right;
 }
 
+.link-subsection + br {
+  	display; none;
+}
+
 small {
 	color: var(--primary);
 	display: block;
