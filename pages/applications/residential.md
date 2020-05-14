@@ -10,7 +10,7 @@ eleventyNavigation:
 
 # COLOR YOUR HOME, FOR LIFE.
 
-<div class="grid-container floor-and-deck">
+<div class="grid-container residential">
 <div class="right">
 
 <p class="bleed-right">
