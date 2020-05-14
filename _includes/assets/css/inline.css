@@ -104,6 +104,7 @@ sup {
 
 .bleed-right {
 	margin: 0 -2em 0 0;
+	max-width: none;
 }
 
 li.copyright {
@@ -161,6 +162,9 @@ header {
 	position: fixed;
 	width: 100%;
 	z-index: 2;
+	-webkit-box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.25);
+	-moz-box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.25);
+	box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.25);
 }
 
 main {
@@ -244,6 +248,10 @@ nav.footer ul {
 	padding: 0;
 }
 
+nav.footer ul li {
+	font-size: .9em;
+}
+
 nav.footer ul li ul {
 	display: none;
 }
@@ -310,8 +318,13 @@ button {
 	text-transform: uppercase;
 }
 
+.hero.hero__applications main h1 {
+	width: 85%;
+}
+
 .hero.hero__difference main h1 {
 	font-size: 1.3em;
+	width: 85%;
 }
 
 .hero.hero__testimonials main h1 {
@@ -447,6 +460,7 @@ a.request-quote[href]:hover {
 	.desktop {
 		display: block;
 	}
+
 	p {
 		font-size: .85em;
 	    line-height: 1.6;
@@ -610,6 +624,10 @@ a.request-quote[href]:hover {
 		margin-top: 0;
 	}
 
+	.page h1 {
+		margin: 4em 0;
+	}
+
 	.grid-container {
 	  	display: grid;
 	  	grid-template-columns: 1fr 1fr;
@@ -621,6 +639,10 @@ a.request-quote[href]:hover {
 	.left { grid-area: left; }
 
 	.right { grid-area: right; }
+
+	.grid-container.floor-and-deck {
+	  	grid-template-columns: 30% 70%;
+	 }
 
 	.grid-container.pros .right img {
 		display: none;
