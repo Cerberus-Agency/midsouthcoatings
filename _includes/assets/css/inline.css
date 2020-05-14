@@ -625,11 +625,15 @@ a.request-quote[href]:hover {
 		margin: 4em 0;
 	}
 
+	.page h2 {
+		margin: 4em 0 2em;
+	}
+
 	.grid-container {
 	  	display: grid;
 	  	grid-template-columns: 1fr 1fr;
 	  	grid-template-rows: 1fr;
-	  	gap: 1em 10%;
+	  	gap: 1em 4%;
 	  	grid-template-areas: "left right";
 	}
 
@@ -637,8 +641,24 @@ a.request-quote[href]:hover {
 
 	.right { grid-area: right; }
 
-	.grid-container.floor-and-deck {
-	  	grid-template-columns: 30% 70%;
+	.grid-container.residential {
+	  	grid-template-columns: 38% 58%;
+	 }
+
+	 .grid-container.commercial {
+	  	grid-template-columns: 58% 38%;
+	 }
+
+	 .grid-container.floor-and-deck {
+	  	grid-template-columns: 38% 58%;
+	 }
+
+	.grid-container.guarantee {
+	  	grid-template-columns: 38% 58%;
+	 }
+
+	.grid-container.energy-savings {
+	  	grid-template-columns: 58% 38%;
 	 }
 
 	.grid-container.pros .right img {
