@@ -12,7 +12,7 @@ eleventyNavigation:
 
 Energy savings of up to 21.9% is based on the Department of Energy study <br>which showed savings on homes with COOLWALL<sup>&reg;</sup> ranged from 4.2% to 21.9%. 
 
-<div class="grid-container floor-and-deck">
+<div class="grid-container energy-savings">
 <div class="left">
 
 <p class="bleed-left">
