@@ -2,6 +2,7 @@
 layout: layouts/hero.njk
 title: Testimonials
 permalink: testimonials/index.html
+image: MSC-5starreviews-hero.jpg
 eleventyNavigation:
   key: Testimonials
   order: 6
@@ -11,6 +12,8 @@ eleventyNavigation:
 
 
 <h1>“We have been very pleased in all our dealings with Kevin Mmahat and his company, MidSouth Coatings. It's a smart product and well worth the cost. He is honest, works within the budget, and the results are stellar. The fact that Kevin is a local boy is another reason to do business with him. We can recommend him wholeheartedly.” <span>★★★★★ - David Palmisano</span></h1>
+
+<div class="hero-content">
 
 We’re proud of our efforts to provide quality application of the finest exterior home coating on the market today, COOLWALL®.
 
@@ -152,4 +155,5 @@ Extremely professional, did a great job on my house. Not to mention that the pro
 Granville M.
 Outstanding service and product. Have referred many friends, businesses and families and will continue to do so.
 
+</div>
 </div>
