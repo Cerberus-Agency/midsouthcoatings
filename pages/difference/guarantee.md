@@ -9,12 +9,12 @@ eleventyNavigation:
 
 ---
 
-# CONFIDENCE, TRUST, AND A LIFETIME WARRANTY ON COOLWALL<sup><sup>&reg;</sup></sup> RESIDENTIAL EXTERIOR COATINGS. 
+# CONFIDENCE, TRUST, AND A LIFETIME <span></span>WARRANTY ON COOLWALL<sup><sup>&reg;</sup></sup> <span></span>RESIDENTIAL EXTERIOR COATINGS. 
 
-<div class="grid-container floor-and-deck">
+<div class="grid-container guarantee">
 <div class="right">
 
-<p class="bleed-right">
+<p>
 <img alt="image showing the difference between CoolWall coating and the competition" src="/static/img/MSC-lifetimeguarantee-inset.jpg">
 </p>
 </div>
