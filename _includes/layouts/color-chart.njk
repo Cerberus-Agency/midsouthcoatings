@@ -4,5 +4,7 @@ section: page
 pageType: hero
 ---
 
+<img class="mobile" src="/static/img/mobile/{{ image }}" alt="{{ title }}">
+<img class="desktop" src="/static/img/{{ image }}" alt="{{ title }}">
 {{ layoutContent | safe }}
 {% include "components/colors.njk" %}
