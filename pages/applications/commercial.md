@@ -10,8 +10,8 @@ eleventyNavigation:
 
 # BUSINESSES ACROSS THE GLOBE <span></span>TRUST OUR COATINGS PRODUCTS.
 
-<div class="grid-container floor-and-deck">
-<div class="leftt">
+<div class="grid-container commercial">
+<div class="left">
 
 <p class="bleed-left">
 <img src="/static/img/MSC-commercialapps-inset.jpg">
