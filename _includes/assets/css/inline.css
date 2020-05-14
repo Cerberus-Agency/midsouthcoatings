@@ -641,6 +641,17 @@ a.request-quote[href]:hover {
 
 	.right { grid-area: right; }
 
+	.full p {
+		max-width: 60%;
+	}
+
+	.full img {
+		width: 168px;
+	    float: left;
+	    margin-right: 2em;
+	    margin-bottom: 1em;
+	}
+
 	.grid-container.residential {
 	  	grid-template-columns: 38% 58%;
 	 }

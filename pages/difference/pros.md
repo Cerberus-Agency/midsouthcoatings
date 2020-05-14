@@ -9,28 +9,21 @@ eleventyNavigation:
 
 ---
 
-<div class="grid-container pros">
-<div class="left">
+<div class="full">
 
-# TRAINED, EXPERIENCED, AND READY TO SERVE YOU.
+# TRAINED, EXPERIENCED, AND <span></span>READY TO SERVE YOU.
 
-Across the Gulf South region, MidSouth Coatings has earned a reputation for superior work and exceptional customer service, thanks to the quality of our people. Our team, led by former Major League Baseball professional Kevin Mmahat, are professionals in their approach, paying special attention to the details and always delivering the best value for your home improvement investment.
+![](/static/img/kevinmmahat-320.jpg) Across the Gulf South region, MidSouth Coatings has earned a reputation for superior work and exceptional customer service, thanks to the quality of our people. Our team, led by former Major League Baseball professional Kevin Mmahat, are professionals in their approach, paying special attention to the details and always delivering the best value for your home improvement investment.
 
 Every MidSouth Coatings employee Kevin manages is trained, experienced, talented, and focused on providing you with the most advanced exterior home coatings on the market today, fully supported by an industry-leading warranty. In fact, Kevin keeps everyone on his staff fully trained on the latest coating tech and application methods—maybe it’s because as a former major league pitcher, Kevin believes preparation is everything.
 
 We derive great satisfaction in helping our neighbors make their homes more comfortable, attractive, and valuable. We’re fully committed to taking a team approach to every project. And we want to earn your trust, just as we have in Lafayette, New Orleans, and Baton Rouge; across the state of Mississippi in Gulfport and Biloxi; and all the way from Gulf Shores, AL to Destin, FL. 
 </div>
-<div class="right display-images">
-
-![](/static/img/kevinmmahat-320.jpg)
-
-</div>
-</div>
 
 <div class="grid-container pros">
 <div class="left">
 
-# MIDSOUTH COATINGS’ 10-STEP PROCESS DELIVERS A GREAT RESULT. EVERY TIME.
+## MIDSOUTH COATINGS’ 10-STEP PROCESS DELIVERS A GREAT RESULT. EVERY TIME.
 
 Only MidSouth Coatings offers the next-gen [COOLWALL<sup>&reg;</sup> system](/difference), the most advanced exterior home coating on the market today. Our 10-step process ensures that your residential or commercial exterior application will be completed proficiently and on-time. Nobody beats our [lifetime guarantee](/difference/guarantee), and nobody pays as much attention to the details as MidSouth Coatings. Trust us to provide a professional application and eliminate the high cost and hassle of repeatedly painting your home, forever. 
 </div>
