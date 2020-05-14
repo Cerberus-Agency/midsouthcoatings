@@ -32,7 +32,8 @@ body {
 }
 
 p {
-	line-height: 2;
+	font-size: 1em;
+    line-height: 1.6
 }
 
 h1 {
@@ -77,7 +78,11 @@ small {
 	color: var(--primary);
 	display: block;
 	font-size: .7em;
-	line-height: 2;
+	line-height: 1.2;
+}
+
+small.mobile {
+	font-size: .6em;
 }
 
 footer small {
@@ -153,6 +158,8 @@ a.phone-number {
 header {
 	background: white;
 	padding: 1em;
+	position: fixed;
+	width: 1005;
 }
 
 main {
@@ -282,15 +289,20 @@ button {
 
 /****** MAIN (CONTENT AREA) ******/
 
+.content {
+	position: relative;
+}
+
 .hero main {
-	background-size: contain;
-	padding: 0 2em;
+	padding: 0;
 	width: 100%;
 }
 
 .hero h1 {
 	color: var(--background);
 	height: 80vh;
+	position: absolute;
+	top: 0;
 	text-shadow: 2px 0px 6px rgba(0,0,0,0.6);
 	text-transform: uppercase;
 }
@@ -314,36 +326,14 @@ button {
 	text-shadow: none;
 }
 
-.hero__applications main {
-	background: url(/static/img/MSC-coolwallapps-hero-MOBILE.jpg) center top no-repeat;
-	background-size: contain;
-}
-
-.hero__color-chart main {
-	background: url(/static/img/MSC-colorchartfinderpage-hero-MOBILE.jpg) center top no-repeat;
-	background-size: contain;
-}
-
-.hero__difference main {
-	background: url(/static/img/MSC-coolwalldiff-hero-MOBILE.jpg) center top no-repeat;
-	background-size: contain;
-}
-
-.hero__home main {
-	background: url(/static/img/MSC-homepage-hero-MOBILE.jpg) center top no-repeat;
-	background-size: contain;
-	padding: 4vh 0 0 5vw;
-}
-
-.hero__testimonials main {
-	background: url(/static/img/MSC-5starreviews-hero-MOBILE.jpg) center top no-repeat;
-	background-size: contain;
+.hero-content {
+	background: white;
+	padding: 1em;
 }
 
 .hero .content p {
 	background: white;
-	padding: 2em 0 0 2em;
-    margin: 0;
+    margin-bottom: 1em;
 }
 
 .content img {
@@ -455,6 +445,8 @@ a.request-quote[href]:hover {
 		display: block;
 	}
 	p {
+		font-size: .85em;
+	    line-height: 1.6;
 		max-width: 640px;
 	}
 
@@ -571,36 +563,11 @@ a.request-quote[href]:hover {
 		text-align: right;
 	}
 
-	.hero__applications main {
-		background: url(/static/img/MSC-coolwallapps-hero.jpg) center top no-repeat;
-		background-size: contain;
-	}
-
-	.hero__color-chart main {
-		background: url(/static/img/MSC-colorchartfinderpage-hero.jpg) center top no-repeat;
-		background-size: contain;
-	}
-
-	.hero__difference main {
-		background: url(/static/img/MSC-coolwalldiff-hero.jpg) center top no-repeat;
-		background-size: contain;
-	}
-
-	.hero__home main {
-		background: url(/static/img/MSC-homepage-hero.jpg) center top no-repeat;
-		background-size: contain;
-	}
-
-	.hero__testimonials main {
-		background: url(/static/img/MSC-5starreviews-hero.jpg) center top no-repeat;
-		background-size: contain;
-	}
-
 	.hero main h1 {
 		font-size: 3.2vh;
-		height: 50vh;
+		height: 55vh;
 		padding: 0 0 0 8vw;
-		text-transform: uppercase;		
+		text-transform: uppercase;
 	}
 
 	.hero__home main h1 {
@@ -625,11 +592,15 @@ a.request-quote[href]:hover {
 	    width: 55%;
 	}
 
+	.hero-content {
+		margin-top: -4em;
+	}
+
 	.hero .content p {
 		transform: translateX(133%);
 		width: 40%;	
 		background: white;
-    	padding: 2em 2em 0 2em;
+    	padding: 0 2em;
 	}
 
 	.left p:first-of-type, .right p:first-of-type {
@@ -698,6 +669,12 @@ a.request-quote[href]:hover {
 		transform: translateX(10%) translateY(-30px);
 		width: 90%;
 	}
+
+	/****** CONTACT FORM ******/
+
+	form {
+		padding: 0
+	};
 	
 }
 
