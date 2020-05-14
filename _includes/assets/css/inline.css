@@ -159,10 +159,12 @@ header {
 	background: white;
 	padding: 1em;
 	position: fixed;
-	width: 1005;
+	width: 100%;
+	z-index: 2;
 }
 
 main {
+	margin-top: 9em;
 	padding: 0 2em;
 }
 
@@ -171,7 +173,7 @@ main {
 nav.header {
 	background-color: white;
 	position: absolute;
-	top: 8em;
+	top: 9em;
 	transform: translateX(-110%);
 	transition: all .5s;
 	width: 100%;
@@ -303,6 +305,7 @@ button {
 	height: 80vh;
 	position: absolute;
 	top: 0;
+	left: 1em;
 	text-shadow: 2px 0px 6px rgba(0,0,0,0.6);
 	text-transform: uppercase;
 }
@@ -314,7 +317,7 @@ button {
 .hero.hero__testimonials main h1 {
     font-size: 1em;
     text-transform: none;
-    width: 100%;
+    width: 85%;
   }
 
 .hero.hero__testimonials main h1 span {
@@ -586,7 +589,7 @@ a.request-quote[href]:hover {
 	    font-size: 3.2vh;
 	}
 
-	.hero.hero__testimonials main h1 {
+	.hero.hero__testimonials main h1 { 
 		font-size: 1.8em;
 		text-transform: none;
 	    width: 55%;
