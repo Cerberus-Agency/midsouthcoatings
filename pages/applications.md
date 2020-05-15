@@ -10,15 +10,15 @@ eleventyNavigation:
 
 ---
 
-# FOR [RESIDENTIAL](/applications/residential) OR [COMMERCIAL](/applications/commercial) APPLICATIONS, COOLWALL® REDUCES COOLING COSTS IN ALL COLORS.
-
-<small>* Energy savings of up to 21.9% is based on the Department of Energy study which showed savings on homes with COOLWALL<sup>&reg;</sup> ranged from 4.2% to 21.9%</small>	
+# FOR [RESIDENTIAL](/applications/residential) OR [COMMERCIAL](/applications/commercial) APPLICATIONS, <span></span>COOLWALL® REDUCES COOLING COSTS IN ALL COLORS.
 
 <div class="hero-content">
 
 This next-gen exterior coating uses infrared heat-reflective components to reflect the sun’s infrared radiation back into the atmosphere rather than causing the home or business to absorb this heat through its coating. This patented technology, only available in the Gulf Coast region from MidSouth Coatings, is specially formulated to keep exterior surfaces cooler, increase durability, and provide superior fade resistance, even in dark colors.
 
 COOLWALL<sup>&reg;</sup> uses the same heat-reflective technology pioneered by the US Military to reduce the heat signature of its combat vehicles. In fact, because this advanced product is 100% more reflective than traditional coatings, COOLWALL<sup>&reg;</sup> colors can reduce exterior wall temperatures by as much as 40° and has been proven to provide cooling cost savings by up to 21.9%. The percentage of cooling costs and surface temperature reductions will vary based on color, geographic location, climate, and substrate type. 
+
+<small>* Energy savings of up to 21.9% is based on the Department of Energy study which showed savings on homes with COOLWALL<sup>&reg;</sup> ranged from 4.2% to 21.9%</small>	
 
 <a class="link-subsection" href="/applications/residential">RESIDENTIAL APPLICATIONS</a>
 <a class="link-subsection" href="/applications/commercial">COMMERCIAL APPLICATIONS</a>
