@@ -7,7 +7,7 @@ permalink: /
   
 ---
 
-# FIND YOUR COOLWALL® COLOR 
+# FIND YOUR COOLWALL<sup>&reg;</sup> COLOR 
 
 <div class="hero-content">
 
