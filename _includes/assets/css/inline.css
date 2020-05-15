@@ -478,7 +478,16 @@ a.request-quote[href]:hover {
 /****** DESKTOP NAVIGATION ******/
 
 	header {
+		/* padding: 1em 2em;*/
+		padding: 0;
+	}
+
+	.menu-container {
+		background: white;
 		padding: 1em 2em;
+		z-index: 5;
+	    position: absolute;
+	    width: 100%;
 	}
 
 	nav.header {
