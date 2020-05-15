@@ -159,6 +159,7 @@ a.phone-number {
 
 header {
 	background: white;
+	height: 8em;
 	padding: 1em;
 	position: fixed;
 	width: 100%;
@@ -169,7 +170,7 @@ header {
 }
 
 main {
-	margin-top: 9em;
+	margin-top: 8em;
 	padding: 0 2em;
 }
 
