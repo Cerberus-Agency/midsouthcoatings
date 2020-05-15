@@ -761,7 +761,8 @@ a.request-quote[href]:hover {
 	/****** TESTIMONIALS ******/
 		
 	.hero .content .reviews p.pullquote {
-		transform: translateX(10%) translateY(-30px);
+		transform: translateX(0);
+		max-width: 90%;
 		width: 90%;
 	}
 
