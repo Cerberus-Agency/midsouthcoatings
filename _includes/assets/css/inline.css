@@ -552,6 +552,7 @@ a.request-quote[href]:hover {
 
 	li.copyright {
 		display: block;
+		padding: 1em 0;
 	}
 
 	.mainlink img {
