@@ -531,6 +531,10 @@ a.request-quote[href]:hover {
 		justify-content: space-between; 
 	}
 
+	.flex-end {
+		justify-content: flex-end;
+	}
+
 	.summary, .image {
 		flex-basis: 50%;
 	}
