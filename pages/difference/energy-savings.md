@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 2
 ---
 
-# COOLWALL<sup>&reg;</sup> COLORS REDUCE <span></span>COOLING COSTS BY UP TO 21.9%
+# COOLWALL<sup>&reg;</sup> COLORS REDUCE <span class="linebreak"></span>COOLING COSTS BY UP TO 21.9%
 
 Energy savings of up to 21.9% is based on the Department of Energy study <br>which showed savings on homes with COOLWALL<sup>&reg;</sup> ranged from 4.2% to 21.9%. 
 

@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ---
 
-# COOL-TEC<sup>&reg;</sup> HEAT-REFLECTIVE FLOOR <span></span>& DECK COATING FOR WOOD AND <span></span>CONCRETE APPLICATIONS.
+# COOL-TEC<sup>&reg;</sup> HEAT-REFLECTIVE FLOOR <span class="linebreak"></span>& DECK COATING FOR WOOD AND <span class="linebreak"></span>CONCRETE APPLICATIONS.
 
 <div class="grid-container floor-and-deck">
 <div class="right">

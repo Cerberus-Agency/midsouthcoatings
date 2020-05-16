@@ -11,7 +11,7 @@ eleventyNavigation:
 
 <div class="full">
 
-# TRAINED, EXPERIENCED, AND <span></span>READY TO SERVE YOU.
+# TRAINED, EXPERIENCED, AND <span class="linebreak"></span>READY TO SERVE YOU.
 
 ![](/static/img/kevinmmahat-320.jpg) Across the Gulf South region, MidSouth Coatings has earned a reputation for superior work and exceptional customer service, thanks to the quality of our people. Our team, led by former Major League Baseball professional Kevin Mmahat, are professionals in their approach, paying special attention to the details and always delivering the best value for your home improvement investment.
 

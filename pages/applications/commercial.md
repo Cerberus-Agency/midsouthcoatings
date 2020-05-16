@@ -8,7 +8,7 @@ eleventyNavigation:
     order: 2
 ---
 
-# BUSINESSES ACROSS THE GLOBE <span></span>TRUST OUR COATINGS PRODUCTS.
+# BUSINESSES ACROSS THE GLOBE <span class="linebreak"></span>TRUST OUR COATINGS PRODUCTS.
 
 <div class="grid-container commercial">
 <div class="left">
