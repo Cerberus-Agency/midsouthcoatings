@@ -330,7 +330,6 @@ button {
 	top: 1em;
 	left: 1em;
 	font-size: 1.2em;
-	padding: 0 0 0 8vw;
 	text-shadow: 2px 0px 6px rgba(0,0,0,0.6);
 	text-transform: uppercase;
 }
@@ -500,6 +499,10 @@ a.request-quote[href]:hover {
 	    line-height: 2;
 		max-width: 640px;
 	}
+	
+	h1 {
+	    font-size: 2em;
+	}
 
 
 /****** DESKTOP NAVIGATION ******/
@@ -640,7 +643,6 @@ a.request-quote[href]:hover {
 
 	.hero main h1 {
 		font-size: 3.2vh;
-		padding: 0 0 0 8vw;
 		text-transform: uppercase;
 	}
 
