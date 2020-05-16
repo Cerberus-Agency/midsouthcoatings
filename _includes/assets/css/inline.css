@@ -218,7 +218,6 @@ nav.header li:has(> ul) {
 nav.header li a {
 	font-family: 'Tenor Sans', sans-serif;
 	color: black;
-	padding: .25em .5em;
 	text-transform: uppercase;
 }
 
@@ -499,7 +498,7 @@ a.request-quote[href]:hover {
 	    line-height: 2;
 		max-width: 640px;
 	}
-	
+
 	h1 {
 	    font-size: 2em;
 	}
