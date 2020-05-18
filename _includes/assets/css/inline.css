@@ -351,7 +351,7 @@ button {
 }
 
 .hero.hero__difference main h1 {
-	font-size: 1.3em;
+	font-size: 1.2em;
 	width: 85%;
 	/* headline is "MIDSOUTH COATING’S COOLWALL® SYSTEM IS SIMPLYTHE MOST ADVANCED EXTERIOR COATING ON THE MARKET TODAY."
 */
@@ -503,6 +503,10 @@ a.request-quote[href]:hover {
 		font-size: .85em;
 	    line-height: 2;
 		max-width: 640px;
+	}
+
+	.page__contact p {
+		max-width: 95%;
 	}
 
 	h1 {
@@ -700,6 +704,10 @@ a.request-quote[href]:hover {
 
 	.page h1 {
 		margin: 4em 0;
+	}
+
+	.page.page__contact h1 {
+		margin: 1em 0;
 	}
 
 	.page h2 {
