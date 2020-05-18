@@ -118,6 +118,10 @@ li.copyright {
 	margin: .5em 0;
 }
 
+.contacts {
+	margin-right: .5em;
+}
+
 .mainlink img {
 	height: 60px;
 }
@@ -188,7 +192,7 @@ nav.header {
 	position: absolute;
 	top: 8em;
 	padding: 1em;
-	transform: translateX(-110%);
+	transform: translate(-110%, -1px);
 	transition: all .5s;
 	width: 100%;
 	z-index: 2;
@@ -198,7 +202,7 @@ nav.header {
 }
 
 nav.header.is-active {
-	transform: translateX(0);
+	transform: translate(0, -1px);
 }
 
 nav.header ul {
