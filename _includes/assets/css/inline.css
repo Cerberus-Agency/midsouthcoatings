@@ -631,6 +631,10 @@ a.request-quote[href]:hover {
 		white-space: nowrap;
 	}
 
+	nav a.mobile.request-quote {
+		display: none;
+	}
+
 	.social {
 		display: block;
 		margin: .5em 0;
