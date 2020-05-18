@@ -406,6 +406,12 @@ header.mobile a.request-quote {
 	font-size: .75em;
 }
 
+nav a.mobile.request-quote {
+	display: inline-block;
+	font-size: 1em;
+	margin: 0;
+}
+
 a.request-quote[href]:hover {
 	background: var(--primary);
 	color: white;
