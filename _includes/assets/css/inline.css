@@ -331,7 +331,6 @@ button {
 	position: relative;
 }
 
-
 .hero main {
 	display: grid;
 	place-items: center;
@@ -388,6 +387,11 @@ button {
 	font-weight: 300;
 	margin-top: .5em;
 	text-shadow: none;
+}
+
+.hero-display {
+	display: grid;
+	place-items: center;
 }
 
 .hero-content {
