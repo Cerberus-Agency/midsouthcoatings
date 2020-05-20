@@ -128,9 +128,21 @@ sup {
   	grid-template-areas: "left right";
 }
 
-.hero.hero__testimonials .grid-container:first-of-type {
-    background: url(/static/img/mobile/MSC-5starreviews-hero.jpg)center top no-repeat;
+.hero__testimonials .grid-container, .hero__testimonials-g4 .grid-container { /* this might work for a most or all grid-containers on mobile but let's wait and see */
+  	display: grid;
+  	grid-template-columns: 1fr;
+  	grid-template-rows: 1fr;
+  	gap: 1em 1em;
+  	grid-template-areas: "right";
 }
+
+.hero__testimonials .grid-container .right, .hero__testimonials-g4 .grid-container .right {
+	padding: 1em;
+}
+
+/*.hero.hero__testimonials .grid-container:first-of-type {
+    background: url(/static/img/mobile/MSC-5starreviews-hero.jpg)center top no-repeat;
+}*/
 
 .hero .grid-container .left {
 	display: grid;
@@ -727,10 +739,8 @@ a.request-quote[href]:hover {
 	.hero.hero__testimonials main h1, .hero.hero__testimonials-g4 main h1 { 
 		/* headline is "“We have been very pleased in all our dealings with Kevin Mmahat and his company, MidSouth Coatings. It's a smart product and well worth the cost. He is honest, works within the budget, and the results are stellar. The fact that Kevin is a local boy is another reason to do business with him. We can recommend him wholeheartedly.”
 ★★★★★ - David Palmisano" */
-		padding: 16vh 0 0 4vw; 
 		font-size: 1.5em;
 		text-transform: none;
-	    width: 55%;
 	}
 
 	.hero-content {
@@ -738,15 +748,11 @@ a.request-quote[href]:hover {
 	}
 
 	.hero .content p{
-		transform: translateX(133%);
-		width: 40%;	
 		background: white;
     	padding: 0 2em;
 	}
 
 	.reviews-g4 {
-		transform: translateX(133%);
-		width: 40%;	
 		background: white;
     	padding: 0;
 	}
@@ -789,6 +795,10 @@ a.request-quote[href]:hover {
 	    margin-right: 2em;
 	    margin-bottom: 1em;
 	}
+
+/*	.hero.hero__testimonials .grid-container:first-of-type {
+	    background: url(/static/img/MSC-5starreviews-hero.jpg)center top no-repeat;
+	}*/
 
 	.grid-container.residential {
 	  	grid-template-columns: 38% 58%;
@@ -873,6 +883,10 @@ a.request-quote[href]:hover {
 @media all and (max-width: 960px) { 
 	.request-quote {
 			font-size: 1.6vh;
+	}
+
+	.hero.hero__testimonials main h1, .hero.hero__testimonials-g4 main h1 {
+	    font-size: 1.2em;
 	}
 }
 	

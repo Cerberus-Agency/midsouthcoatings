@@ -11,15 +11,20 @@ eleventyNavigation:
 
 <div class="grid-container">
 	<div class="left">
-<h1>“We have been very pleased in all our dealings with Kevin Mmahat and his company, MidSouth Coatings. It's a smart product and well worth the cost. He is honest, works within the budget, and the results are stellar. The fact that Kevin is a local boy is another reason to do business with him. We can recommend him wholeheartedly.” <span>★★★★★ - David Palmisano</span></h1>
-</div>
+		<h1>“We have been very pleased in all our dealings with Kevin Mmahat and his company, MidSouth Coatings. It's a smart product and well worth the cost. He is honest, works within the budget, and the results are stellar. The fact that Kevin is a local boy is another reason to do business with him. We can recommend him wholeheartedly.” <span>★★★★★ - David Palmisano</span></h1>
+	</div>
+	<div class="right">
+	</div>
 </div>
 
-<div class="hero-content">
-
+<div class="grid-container">
+	<div class="left">
+	</div>
+	<div class="right">
+		
 We’re proud of our efforts to provide quality application of the finest exterior home coating on the market today, COOLWALL<sup>®</sup>.
 
- We appreciate all of the five-star Google reviews we have received, and we'd love to add yours to our site. [Click here](https://www.google.com/search?q=mid+south+coatings#lrd=0x8620b05f48ba5765:0xf207a71d7568051b,1,,,) to leave your review. 
+We appreciate all of the five-star Google reviews we have received, and we'd love to add yours to our site. [Click here](https://www.google.com/search?q=mid+south+coatings#lrd=0x8620b05f48ba5765:0xf207a71d7568051b,1,,,) to leave your review. 
 
 <a href="https://reviews.authenticfeedback.com/mscoatings/" class="reviewmgr-button" data-content="Review Us" data-replace="true">Review Us</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.reviewmgr.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document, "script", "reviewmgr-wjs");</script>
 
@@ -165,5 +170,6 @@ Extremely professional, did a great job on my house. Not to mention that the pro
 Granville M.
 Outstanding service and product. Have referred many friends, businesses and families and will continue to do so.
 
+</div>
 </div>
 </div>
