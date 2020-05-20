@@ -6,6 +6,6 @@ permalink: /thank-you/index.html
 
 ---
 
-# Thank you. 
+# THANK YOU. 
 
-Thank your contacting us. Our representative will respond to your inquiry very soon.
+Thank you for contacting us. Our representative will respond to your inquiry very soon.
