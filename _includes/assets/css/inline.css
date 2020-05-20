@@ -375,13 +375,13 @@ button {
 */
 }
 
-.hero.hero__testimonials main h1 {
+.hero.hero__testimonials main h1, .hero.hero__testimonials-g4 main h1 {
     font-size: 1em;
     text-transform: none;
     width: 85%;
   }
 
-.hero.hero__testimonials main h1 span {
+.hero.hero__testimonials main h1 span, .hero.hero__testimonials-g4 main h1 span {
 	display: block;
 	font-family: "Roboto", sans-serif;
 	font-size: .5em;
@@ -702,9 +702,10 @@ a.request-quote[href]:hover {
 	*/
 	}
 
-	.hero.hero__testimonials main h1 { 
+	.hero.hero__testimonials main h1, .hero.hero__testimonials-g4 main h1 { 
 		/* headline is "“We have been very pleased in all our dealings with Kevin Mmahat and his company, MidSouth Coatings. It's a smart product and well worth the cost. He is honest, works within the budget, and the results are stellar. The fact that Kevin is a local boy is another reason to do business with him. We can recommend him wholeheartedly.”
 ★★★★★ - David Palmisano" */
+		padding: 16vh 0 0 4vw; 
 		font-size: 1.5em;
 		text-transform: none;
 	    width: 55%;
@@ -714,11 +715,18 @@ a.request-quote[href]:hover {
 		margin-top: -4em;
 	}
 
-	.hero .content p {
+	.hero .content p{
 		transform: translateX(133%);
 		width: 40%;	
 		background: white;
     	padding: 0 2em;
+	}
+
+	.reviews-g4 {
+		transform: translateX(124%);
+		width: 40%;	
+		background: white;
+    	padding: 0;
 	}
 
 	.left p:first-of-type, .right p:first-of-type {
