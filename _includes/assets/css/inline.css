@@ -202,7 +202,7 @@ main {
 nav.header {
 	background-color: white;
 	position: absolute;
-	top: 8em;
+	top: 7em;
 	padding: 1em;
 	transform: translate(-110%, -1px);
 	transition: all .5s;
@@ -234,6 +234,7 @@ nav.header li:has(> ul) {
 nav.header li a {
 	font-family: 'Tenor Sans', sans-serif;
 	color: black;
+	padding: .25em .5em;
 	text-transform: uppercase;
 }
 
