@@ -528,7 +528,7 @@ a.request-quote[href]:hover {
 		max-width: 640px;
 	}
 
-	.page__contact p {
+	.page__contact p, .paage__thank-you p {
 		max-width: 95%;
 	}
 
@@ -741,7 +741,7 @@ a.request-quote[href]:hover {
 		margin: 4em 0;
 	}
 
-	.page.page__contact h1, .page.page_thank-you {
+	.page.page__contact h1, .page.page__thank-you {
 		margin: 1em 0;
 	}
 

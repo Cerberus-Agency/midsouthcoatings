@@ -9,8 +9,11 @@ eleventyNavigation:
 
 ---
 
-
+<div class="grid-container">
+	<div class="left">
 <h1>“We have been very pleased in all our dealings with Kevin Mmahat and his company, MidSouth Coatings. It's a smart product and well worth the cost. He is honest, works within the budget, and the results are stellar. The fact that Kevin is a local boy is another reason to do business with him. We can recommend him wholeheartedly.” <span>★★★★★ - David Palmisano</span></h1>
+</div>
+</div>
 
 <div class="hero-content">
 
