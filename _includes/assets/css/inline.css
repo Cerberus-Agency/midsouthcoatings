@@ -120,6 +120,23 @@ sup {
 	justify-content: space-between; 
 }
 
+.grid-container {
+  	display: grid;
+  	grid-template-columns: 1fr;
+  	grid-template-rows: 1fr 1fr;
+  	gap: 1em 1em;
+  	grid-template-areas: "left right";
+}
+
+.hero.hero__testimonials .grid-container:first-of-type {
+    background: url(/static/img/mobile/MSC-5starreviews-hero.jpg)center top no-repeat;
+}
+
+.hero .grid-container .left {
+	display: grid;
+	place-items: center left;
+}
+
 li.copyright {
 	display: none;
 }
@@ -378,8 +395,9 @@ button {
 .hero.hero__testimonials main h1, .hero.hero__testimonials-g4 main h1 {
     font-size: 1em;
     text-transform: none;
-    width: 85%;
-  }
+    width: 72%;
+    padding: 1em;
+}
 
 .hero.hero__testimonials main h1 span, .hero.hero__testimonials-g4 main h1 span {
 	display: block;
@@ -686,17 +704,17 @@ a.request-quote[href]:hover {
 	}
 
 	.hero__home main h1 {
-		padding: 20vh 0 0 8vw;
+		padding: 16vh 0 0 8vw;
 		/* headline is "FIND YOUR COOLWALL® COLOR" */
 	}
 
 	.hero__color-chart main h1 {
-		padding: 20vh 0 0 8vw;
+		padding: 4vh 0 0 8vw;
 		/*  headline is "COOLWALL® COLORS" */
 	}
 
 	.hero.hero__applications main h1 {
-	    padding: 20vh 0 0 4vw; 
+	    padding: 4vh 0 0 4vw; 
 	    /* headliine is "FOR RESIDENTIAL OR COMMERCIAL APPLICATIONS, COOLWALL® REDUCES COOLING COSTS IN ALL COLORS. */
 	}
 
@@ -839,9 +857,9 @@ a.request-quote[href]:hover {
 	/****** TESTIMONIALS ******/
 		
 	.hero .content .reviews p.pullquote {
-		transform: translateX(0);
-		max-width: 90%;
-		width: 90%;
+		transform: translateX(-55%);
+	    max-width: 200%;
+	    width: 200%;
 	}
 
 	/****** CONTACT FORM ******/
