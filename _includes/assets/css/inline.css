@@ -668,6 +668,10 @@ a.request-quote[href]:hover {
 		text-align: right;
 	}
 
+	.contacts {
+		margin-right: 0;
+	}
+
 	a.icon {
 		display: inline-block;
 		height: 20px;
@@ -773,7 +777,7 @@ a.request-quote[href]:hover {
 	 }
 
 	 .grid-container.commercial {
-	  	grid-template-columns: 58% 38%;
+	  	grid-template-columns: 38% 58%;
 	 }
 
 	 .grid-container.floor-and-deck {
@@ -785,7 +789,7 @@ a.request-quote[href]:hover {
 	 }
 
 	.grid-container.energy-savings {
-	  	grid-template-columns: 58% 38%;
+	  	grid-template-columns:  38% 58%;
 	 }
 
 	.grid-container.pros .right img {
