@@ -8,4 +8,4 @@ permalink: /thank-you/index.html
 
 # THANK YOU. 
 
-Thank you for contacting us. Our representative will respond to your inquiry very soon.
+A representative will respond regarding your request and to schedule your free in-home consultation very soon.
