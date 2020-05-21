@@ -136,10 +136,6 @@ sup {
   	grid-template-areas: "right";*/
 }
 
-.hero .grid-container {
-	transform: translateY(-50px);
-}
-
 .hero__testimonials .grid-container .right, .hero__testimonials-g4 .grid-container .right {
 	padding: 1em;
 }
@@ -715,6 +711,10 @@ a.request-quote[href]:hover {
 		margin-left: 1em;
 		width: 20px;
 		transform: translateY(6px);
+	}
+
+	.hero .grid-container {
+		transform: translateY(-50px);
 	}
 
 	.hero main h1 {
