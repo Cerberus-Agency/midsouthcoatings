@@ -37,3 +37,10 @@ $(document).ready(function(){
   });
 });
 
+$(document).on('change', '#palette-selector', function() {
+        var category = $(this).val();
+        console.log(category);
+        $.get('/palettes/' + category + '/index.html', function(data) {
+            $('#results').html(data);
+        });
+    });
