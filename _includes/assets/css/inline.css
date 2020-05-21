@@ -126,6 +126,7 @@ sup {
   	grid-template-rows: 1fr 1fr;
   	gap: 1em 1em;
   	grid-template-areas: "left right";
+  	padding: 0 1em;
 }
 
 .hero__testimonials .grid-container, .hero__testimonials-g4 .grid-container { /* this might work for a most or all grid-containers on mobile but let's wait and see */
@@ -195,8 +196,12 @@ a.phone-number {
 	padding: 0 1em;
 }
 
-.answer li {
-	line-height: 1.5;
+.reviews-g4 {
+	margin-left: -1.5em;
+}
+
+.hero .grid-container {
+	transform: translateY(-50px);
 }
 
 .mobile-menu {
