@@ -735,7 +735,7 @@ a.request-quote[href]:hover {
 	.hero.hero__applications main h1 {
 	    padding: 4vh 0 0 4vw; 
 	    /* headline is "FOR RESIDENTIAL OR COMMERCIAL APPLICATIONS, COOLWALL® REDUCES COOLING COSTS IN ALL COLORS. 
-	    --long headline that needs to be up in the sky */
+	    --long headline that prints over a wood pattern, it's going to be wrong about half the time */
 	}
 
 	.hero.hero__difference main h1 {
