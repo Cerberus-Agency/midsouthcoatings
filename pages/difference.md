@@ -12,7 +12,10 @@ eleventyNavigation:
 
 # MidSouth Coating’s COOLWALL<sup>&reg;</sup> system is simply<span class="linebreak"></span> the most advanced exterior coating on the market today.
 
-<div class="hero-content">
+<div class="grid-container">
+	<div class="left">
+	</div>
+	<div class="right">
 
 In fact, COOLWALL<sup>&reg;</sup> uses the same heat reflective technology first developed by the military to reduce the heat signature of its combat vehicles. Our patented infrared heat reflective coatings not only provide for lower surface temperatures, each of our 570 COOLWALL<sup>&reg;</sup> [colors](/color-chart) is [guaranteed to protect and beautify for a lifetime](/difference/guarantee). And because our coatings stay much cooler than every other exterior coating solution, heat buildup is greatly reduced, which means less expansion and contraction stress. 
 
@@ -20,5 +23,9 @@ On average, MidSouth Coating’s COOLWALL<sup>&reg;</sup> colors are 100% more r
 
 [Trust MidSouth Coatings](/difference/pros) to provide professional application of the next-gen COOLWALL<sup>&reg;</sup> system, and eliminate the high cost and hassle of repeatedly painting your home forever. No other exterior coating pros are more experienced or pay more attention to the details as the experts at MidSouth Coatings. Our 10-step process ensures that your residential or commercial exterior application will be completed skillfully, quickly, and efficiently. Schedule your free consultation today and a friendly team member will meet with you to discuss how truly affordable our remarkable exterior coating system is.
 
-[LIFETIME GUARANTEE](/difference/guarantee) // [ENERGY SAVINGS](/difference/energy-savings) // [MIDSOUTH COATINGS PROS](/difference/pros)
+<a class="link-subsection" href="/difference/guarantee">LIFETIME GUARANTEE</a>
+<a class="link-subsection" href="/difference/energy-savings">ENERGY SAVINGS</a>
+<a class="link-subsection" href="/difference/pros">MIDSOUTH COATINGS PROS</a>
+
+</div>
 </div>
