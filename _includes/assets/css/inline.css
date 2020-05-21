@@ -481,8 +481,11 @@ a.request-quote[href]:hover {
 
 .color-chart {
 	display: flex;
-	flex-wrap: wrap;	
-	margin: 0 0 3em;
+	flex-wrap: wrap;
+	margin-left: auto;
+	margin-right: auto;	
+	margin-bottom: 3em;
+	max-width: 1200px;
 }
 
 .color-chart h2 {
