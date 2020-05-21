@@ -2,6 +2,14 @@
   publish = "_site"
   command = "eleventy"
 
+
+# Branch deploy context:
+# All deploys that are not from a pull/merge request
+# or from the production branch will inherit these settings.
+[context.branch-deploy]
+  command = "make dev-20200521"
+
+
 # REDIRECT and HEADERS examples
 
 # Redirect rule example
