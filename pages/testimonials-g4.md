@@ -19,7 +19,7 @@ eleventyNavigation:
 		
 We’re proud of our efforts to provide quality application of the finest exterior home coating on the market today, COOLWALL<sup>®</sup>.
 
-We appreciate all of the five-star Google reviews we have received, and we'd love to add yours to our site. [Click here](https://www.google.com/search?q=mid+south+coatings#lrd=0x8620b05f48ba5765:0xf207a71d7568051b,1,,,) to leave your review. 
+We appreciate all of the five-star Google reviews we have received, and we'd love to add yours to our site. 
 
 <a href="https://reviews.authenticfeedback.com/mscoatings/" class="reviewmgr-button" data-content="Review Us" data-replace="true">Review Us</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.reviewmgr.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document, "script", "reviewmgr-wjs");</script>
 
