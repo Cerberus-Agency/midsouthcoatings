@@ -129,11 +129,15 @@ sup {
 }
 
 .hero__testimonials .grid-container, .hero__testimonials-g4 .grid-container { /* this might work for a most or all grid-containers on mobile but let's wait and see */
-  	display: grid;
+/*  	display: grid;
   	grid-template-columns: 1fr;
   	grid-template-rows: 1fr;
   	gap: 1em 1em;
-  	grid-template-areas: "right";
+  	grid-template-areas: "right";*/
+}
+
+.hero .grid-container {
+	transform: translateY(-50px);
 }
 
 .hero__testimonials .grid-container .right, .hero__testimonials-g4 .grid-container .right {
@@ -724,19 +728,20 @@ a.request-quote[href]:hover {
 	}
 
 	.hero__color-chart main h1 {
-		padding: 4vh 0 0 8vw;
-		/*  headline is "COOLWALL® COLORS" */
+		padding: 16vh 0 0 8vw;
+		/*  headline is "COOLWALL® COLORS", heep it the same as .hero__home */
 	}
 
 	.hero.hero__applications main h1 {
 	    padding: 4vh 0 0 4vw; 
-	    /* headliine is "FOR RESIDENTIAL OR COMMERCIAL APPLICATIONS, COOLWALL® REDUCES COOLING COSTS IN ALL COLORS. */
+	    /* headline is "FOR RESIDENTIAL OR COMMERCIAL APPLICATIONS, COOLWALL® REDUCES COOLING COSTS IN ALL COLORS. 
+	    --long headline that needs to be up in the sky */
 	}
 
 	.hero.hero__difference main h1 {
 		font-size: 2em;
-		/* headline is "MIDSOUTH COATING’S COOLWALL® SYSTEM IS SIMPLYTHE MOST ADVANCED EXTERIOR COATING ON THE MARKET TODAY."
-	*/
+		/* headline is "MIDSOUTH COATING’S COOLWALL® SYSTEM IS SIMPLY THE MOST ADVANCED EXTERIOR COATING ON THE MARKET TODAY."
+		--long headline that needs to be up in the sky, default padding is o.k.*/
 	}
 
 	.hero.hero__testimonials main h1, .hero.hero__testimonials-g4 main h1 { 
