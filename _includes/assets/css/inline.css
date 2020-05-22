@@ -146,7 +146,7 @@ sup {
 }*/
 
 .hero.hero__testimonials .grid-container .left, .hero.hero__testimonials-g4 .grid-container .left {
-	display: block;
+	display: none;
 }
 
 .hero .grid-container .left {
@@ -465,7 +465,6 @@ select {
     top: 3em;
     width: 85%;
     /* headliine is "FOR RESIDENTIAL OR COMMERCIAL APPLICATIONS, COOLWALL® REDUCES COOLING COSTS IN ALL COLORS. */
-
 }
 
 .hero.hero__difference main h1 {
@@ -813,6 +812,10 @@ a.request-quote[href]:hover {
 ★★★★★ - David Palmisano" */
 		font-size: 1.5em;
 		text-transform: none;
+	}
+
+	.hero.hero__testimonials .grid-container .left, .hero.hero__testimonials-g4 .grid-container .left {
+		display: block;
 	}
 
 	.hero-content {
