@@ -375,13 +375,11 @@ select {
     cursor: default;
     color: var(--primary);
     display: inline-block;
-    font: 200 20px "Tenor Sans", sans-serif;
+    font: 200 20px "Roboto", sans-serif;
     height: 3em;
-    letter-spacing: .2em;
-    margin: 1em 1.5em 2em;
+    margin: 1em auto;
     padding: .75em;
     word-spacing: normal;
-    text-transform: uppercase;
     text-indent: 0px;
     text-rendering: auto;
     text-shadow: none;
@@ -391,7 +389,7 @@ select {
     -webkit-appearance: none;
     -webkit-border-radius: 0px;
     white-space: pre;
-    width: 72%;
+    width: 18%;
 }
 
 /****** MAIN (CONTENT AREA) ******/
@@ -552,6 +550,19 @@ a.request-quote[href]:hover {
 	text-transform: uppercase;
 }
 
+.color-chart-form {
+	text-align: center;
+}
+
+.hero main .color-chart-form h1 {
+	color: black;
+	left: 0;
+	margin-bottom: 2em;
+	padding: 0;
+	position: relative;
+	text-shadow: none;
+}
+
 /****** REVIEWS ******/
 
 .reviews p {
@@ -694,6 +705,7 @@ a.request-quote[href]:hover {
 
 	footer div {
 		margin: 0 auto;
+		max-width: 75%;
 		text-align: left;
 	}
 
