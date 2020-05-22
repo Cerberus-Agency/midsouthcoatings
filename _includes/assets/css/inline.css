@@ -145,6 +145,10 @@ sup {
     background: url(/static/img/mobile/MSC-5starreviews-hero.jpg)center top no-repeat;
 }*/
 
+.hero.hero__testimonials .grid-container .left, .hero.hero__testimonials-g4 .grid-container .left {
+	display: block;
+}
+
 .hero .grid-container .left {
 	display: grid;
 	place-items: center left;
@@ -593,26 +597,6 @@ a.request-quote[href]:hover {
 	text-shadow: none;
 }
 
-/****** REVIEWS ******/
-
-.reviews p {
-	font-size: .9em;
-	line-height: 1.3;
-}
-
-.hero .content .reviews p.pullquote {
-	color: var(--primary);
-	font-family: "Tenor Sans", sans-serif;
-	font-size: 2rem;
-	line-height: 1.3;
-	margin-top: 1em;
-}
-
-.pullquote span {
-	font-family: "Roboto", sans-serif;
-	font-size: 1rem;
-}
-
 /****** PROS ******/
 
 .steps p {
@@ -953,11 +937,24 @@ a.request-quote[href]:hover {
 	}
 
 	/****** TESTIMONIALS ******/
-		
+
 	.hero .content .reviews p.pullquote {
-		transform: translateX(-55%);
-	    max-width: 200%;
-	    width: 200%;
+		color: var(--primary);
+		font-family: "Tenor Sans", sans-serif;
+		font-size: 2rem;
+		line-height: 1.3;
+		margin-top: 60vh;
+		max-width: 100%;
+		padding: 0 0 0 2em;
+	}
+
+	.pullquote span {
+		font-family: "Roboto", sans-serif;
+		font-size: 1rem;
+	}
+
+	.reviews-g4 {
+	    margin-left: .5em;
 	}
 
 	/****** CONTACT FORM ******/
