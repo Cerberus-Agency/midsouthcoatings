@@ -39,7 +39,7 @@ p {
 h1 {
 	color: var(--primary);
 	font-family: 'Tenor Sans', sans-serif;
-	font-size: 1.8em;
+	font-size: 1.5em;
 	line-height: 1.2;
 }
 
@@ -123,9 +123,9 @@ sup {
 .grid-container {
   	display: grid;
   	grid-template-columns: 1fr;
-  	grid-template-rows: 1fr 1fr;
+  	grid-template-rows: 1fr;
   	gap: 1em 1em;
-  	grid-template-areas: "left right";
+  	grid-template-areas: "left";
   	padding: 0 1em;
 }
 
@@ -201,7 +201,7 @@ a.phone-number {
 }
 
 .hero .grid-container {
-	transform: translateY(-50px);
+	transform: translateY(0);
 }
 
 .mobile-menu {
@@ -474,8 +474,8 @@ select {
 .hero.hero__testimonials main h1, .hero.hero__testimonials-g4 main h1 {
     font-size: 1em;
     text-transform: none;
-    width: 72%;
-    padding: 1em;
+    width: 66%;
+    padding: 0;
 }
 
 .hero.hero__testimonials main h1 span, .hero.hero__testimonials-g4 main h1 span {
@@ -645,7 +645,7 @@ a.request-quote[href]:hover {
 	}
 
 	h1 {
-	    font-size: 2em;
+	    font-size: 1.5em;
 	}
 
 
@@ -798,7 +798,7 @@ a.request-quote[href]:hover {
 	}
 
 	.hero main h1 {
-		font-size: 3.2vh;
+		font-size: 2em;
 		text-transform: uppercase;
 	}
 
@@ -977,7 +977,7 @@ a.request-quote[href]:hover {
 	}
 
 	.hero.hero__testimonials main h1, .hero.hero__testimonials-g4 main h1 {
-	    font-size: 1.2em;
+	    font-size: 1.1em;
 	}
 }
 	
