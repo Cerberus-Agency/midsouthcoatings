@@ -652,7 +652,7 @@ a.request-quote[href]:hover {
 /****** DESKTOP NAVIGATION ******/
 
 	header {
-		/* padding: 1em 2em;*/
+		height: 8em;
 		padding: 0;
 	}
 
