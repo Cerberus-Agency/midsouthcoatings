@@ -2,7 +2,7 @@
 layout: layouts/hero.njk
 title: Testimonials
 permalink: testimonials-g4/index.html
-excerpt: We’re proud of our efforts to provide quality application of the finest exterior home coating on the market today, COOLWALL. We appreciate all of the five-star Google reviews we have received, and we'd love to add yours to our site. 
+excerpt: We’re proud of our efforts to provide quality application of the finest exterior home coating on the market today, COOLWALL. We appreciate all of the five-star reviews we have received, and we'd love to add yours to our site. 
 image: MSC-5starreviews-hero.jpg
 eleventyNavigation:
   key: Testimonials
