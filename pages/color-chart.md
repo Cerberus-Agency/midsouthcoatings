@@ -1,7 +1,8 @@
 ---
 layout: layouts/color-chart.njk
-title: CoolWall® Colors
+title: CoolWall Colors
 permalink: /color-chart/index.html
+excerpt: Before COOLWALL colors were introduced in the market, homeowners typically selected lighter colors for their ability to reflect much of the sun’s radiant energy back into the atmosphere. Today, more and more homeowners are choosing darker COOLWALL colors because of their heat reflective properties and superior fade resistance.
 image: MSC-colorchartfinderpage-hero.jpg
 eleventyNavigation:
   key: CoolWall Color Chart
