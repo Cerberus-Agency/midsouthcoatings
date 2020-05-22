@@ -330,12 +330,42 @@ nav.footer a[href], nav.footer a[href]:visited {
 /****** CONTACT FORM ******/
 
 form {
-  display: grid;
+  	display: grid;
 	padding: 2em 0;
 }
 
 form label {
-  display: none;
+  	display: none;
+}
+
+form fieldset {
+	display; flex;
+}
+
+form fieldset label {
+  	display: inline-block;
+}
+
+fieldset {
+    display: block;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 0.75em;
+    padding-inline-end: 0.75em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+    border-width: 0px;
+}
+
+input[type="checkbox"] {
+    background-color: white;
+    cursor: default;
+    -webkit-appearance: none;
+    box-sizing: border-box;
+    margin: 3px 0.5ex;
+    padding: 1em;
+    border: var(--primary);
 }
 
 input,
@@ -389,7 +419,7 @@ select {
     -webkit-appearance: none;
     -webkit-border-radius: 0px;
     white-space: pre;
-    width: 18%;
+    width: 96%;
 }
 
 /****** MAIN (CONTENT AREA) ******/
@@ -935,6 +965,9 @@ a.request-quote[href]:hover {
 	form {
 		padding: 0
 	};
+	select {
+		width: 18%;
+	}
 	
 }
 
