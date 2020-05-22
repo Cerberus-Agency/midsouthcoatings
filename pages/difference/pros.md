@@ -30,7 +30,7 @@ Only MidSouth Coatings offers the next-gen [COOLWALL<sup>&reg;</sup> system](/di
 <div class="right"></div>
 </div>
 <div class="grid-container pros">
-<div class="left">
+<div class="left desktop">
 
 ![](/static/img/MSC-midsouthpros-processpic1.jpg)
 
