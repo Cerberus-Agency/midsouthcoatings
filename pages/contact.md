@@ -2,6 +2,7 @@
 layout: layouts/contact.njk
 title: Get in touch
 section: contact
+excerpt: Get a quote for residential or commercial coatings in under 24 hours. To contact us, or to schedule a free in-home consultation, call (855) 828-2683, email kevin@midsouthcoatings.com, or complete the form.
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
