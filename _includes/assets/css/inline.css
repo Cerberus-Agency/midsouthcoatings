@@ -942,7 +942,7 @@ a.request-quote[href]:hover {
 	/****** TESTIMONIALS ******/
 
 	.hero .content .reviews p.pullquote {
-		color: var(--primary);
+		color: black;
 		font-family: "Tenor Sans", sans-serif;
 		font-size: 2rem;
 		line-height: 1.3;
