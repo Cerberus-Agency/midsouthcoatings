@@ -478,7 +478,7 @@ select {
     font-size: 1em;
     text-transform: none;
     width: 66%;
-    padding: 0;
+    padding: 4em 0 0 0;
 }
 
 .hero.hero__testimonials main h1 span, .hero.hero__testimonials-g4 main h1 span {
@@ -824,7 +824,7 @@ a.request-quote[href]:hover {
 
 	.hero .content p{
 		background: white;
-    	padding: 0 2em;
+    	/*padding: 0 2em;*/
 	}
 
 	.reviews-g4 {
