@@ -18,11 +18,11 @@ eleventyNavigation:
 	<div class="reviews">
 		<p class="pullquote">
 		The staff is very knowledgeable and helpful. The product looks great and I’m confident in its longevity. I’m very pleased and highly recommend MidSouth Coatings.
-		<span>★★★★★ - Michael R.</span>
+		<span class="stars">★★★★★</span><span> - Michael R.</span>
 		</p>
 		<p class="pullquote">
 		Professional job, very easy to work with and my house has never looked so good.
-		<span>★★★★★ - Jackie B.</span>
+		<span class="stars">★★★★★</span><span> - Jackie B.</span>
 		</p>
 	</div>
 </div>
