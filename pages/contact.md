@@ -29,12 +29,16 @@ MidSouth Coatings is pleased to accept personal checks, all major credit cards, 
   <input type="phone" name="phone" id="phone" autocomplete="phone" placeholder="Phone #" title="Phone #" required>
   <label for="message">Message</label>
   <textarea name="message" id="message" placeholder="Message" rows="7" required></textarea>
-  <label>Application: <select name="application[]" multiple>
-      <option value="residential">Residential</option>
-      <option value="commercial">Commercial</option>
-      <option value="decking">Decking</option>
-    </select></label>
-  <button type="submit" name="submit">Send</button>
+<!--   <fieldset name="application">
+    <input type="checkbox" name="residential" value="residential" id="residential" >
+      <label for="residential">Residential</label>
+    <input type="checkbox" name="commercial" value="commercial" id="commercial">
+      <label for="commercial">Commercial</label>
+    <input type="checkbox" name="decking" value="decking" id="decking">
+      <label for="decking">Decking</label>
+  </fieldset> -->
+  <input type="hidden" name="subject" value="Form submission from midsouthcoatings.com contact form: {{name}} {{email}}">
+  <button type="submit" name="submit">Submit</button>
 </form>
 </div>
 <div class="right">
