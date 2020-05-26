@@ -37,7 +37,7 @@ MidSouth Coatings is pleased to accept personal checks, all major credit cards, 
     <input type="checkbox" name="decking" value="decking" id="decking">
       <label for="decking">Decking</label>
   </fieldset> -->
-  <input type="hidden" name="subject" value="Form submission from midsouthcoatings.com contact form: {{name}} {{email}}">
+  <!-- <input type="hidden" name="subject" value="Form submission from midsouthcoatings.com contact form: {{name}} {{email}}"> -->
   <button type="submit" name="submit">Submit</button>
 </form>
 </div>
