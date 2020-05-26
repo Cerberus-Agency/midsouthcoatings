@@ -988,4 +988,14 @@ a.request-quote[href]:hover {
 	    font-size: 1.1em;
 	}
 }
+
+@media only screen 
+  and (min-device-width: 1366px) 
+  and (max-device-width: 1366px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+	.reviews-g4 {
+	    margin-left: -1.5em;
+	}
+}
 	
