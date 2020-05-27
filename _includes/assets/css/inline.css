@@ -109,6 +109,10 @@ sup {
 	max-width: none;
 }
 
+.flex-mobile {
+	display: flex;
+}
+
 .align-items-center {
 	align-items: center;
 }
@@ -130,23 +134,7 @@ sup {
   	padding: 0 1em;
 }
 
-.hero__testimonials .grid-container, .hero__testimonials-g4 .grid-container { /* this might work for a most or all grid-containers on mobile but let's wait and see */
-/*  	display: grid;
-  	grid-template-columns: 1fr;
-  	grid-template-rows: 1fr;
-  	gap: 1em 1em;
-  	grid-template-areas: "right";*/
-}
-
-.hero__testimonials .grid-container .right, .hero__testimonials-g4 .grid-container .right {
-	padding: 0 1em;
-}
-
-/*.hero.hero__testimonials .grid-container:first-of-type {
-    background: url(/static/img/mobile/MSC-5starreviews-hero.jpg)center top no-repeat;
-}*/
-
-.hero.hero__testimonials .grid-container .left, .hero.hero__testimonials-g4 .grid-container .left {
+.hero.hero__testimonials .grid-container .left {
 	display: none;
 }
 
@@ -201,7 +189,7 @@ a.phone-number {
 	padding: 0 1em;
 }
 
-.reviews-g4 {
+.reviews, .reviews-g4 {
 	margin-left: -1.5em;
 }
 
@@ -335,7 +323,6 @@ nav.footer a[href], nav.footer a[href]:visited {
 /****** CONTACT FORM ******/
 
 form {
-  	display: grid;
 	padding: 2em 0;
 }
 
@@ -343,34 +330,42 @@ form label {
   	display: none;
 }
 
-form fieldset {
-	display; flex;
-}
-
-form fieldset label {
+form #application label {
   	display: inline-block;
 }
 
 fieldset {
-    display: block;
-    margin-inline-start: 2px;
-    margin-inline-end: 2px;
-    padding-block-start: 0.35em;
-    padding-inline-start: 0.75em;
-    padding-inline-end: 0.75em;
-    padding-block-end: 0.625em;
-    min-inline-size: min-content;
-    border-width: 0px;
+	min-inline-size: min-content;
+    border-width: 0;
+    padding: 0 0 1em 0;
+    margin: 0;
+}
+
+fieldset div div {
+	flex-basis: 33%;
+}
+
+input {
+  align-self: center;
+}
+
+label {
+  align-self: center;
 }
 
 input[type="checkbox"] {
+	/*-webkit-appearance: none;*/
+	align-self: center;
     background-color: white;
+    border: 1px solid var(--primary);
+    border-radius: 0;
+    color: red;
     cursor: default;
-    -webkit-appearance: none;
-    box-sizing: border-box;
-    margin: 3px 0.5ex;
+    display: inline-block;
+    height: 2em;
+    margin: 0 .5em 0 0;
     padding: 1em;
-    border: var(--primary);
+   	width: 2em;
 }
 
 input,
@@ -961,7 +956,7 @@ a.request-quote[href]:hover {
 		letter-spacing: .35em;
 	}
 
-	.reviews-g4 {    
+	.reviews, .reviews-g4 {    
 	    margin-left: -1.5em;
 	    padding: 0;
 	}

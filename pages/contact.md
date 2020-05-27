@@ -30,14 +30,16 @@ MidSouth Coatings is pleased to accept personal checks, all major credit cards, 
   <input type="phone" name="phone" id="phone" autocomplete="phone" placeholder="Phone #" title="Phone #" required>
   <label for="message">Message</label>
   <textarea name="message" id="message" placeholder="Message" rows="7" required></textarea>
-  <fieldset name="application" id="application">
-    <div class="grid-container">
-      <div class="residential"><input type="checkbox" name="residential" value="residential" id="residential" >
-      <label for="residential">Residential</label>
+  <fieldset id="application">
+    <div class="flex">
+      <div class="residential flex align-items-center">
+        <input type="checkbox" name="application" value="residential" id="residential" ><label for="residential">Residential</label>
       </div>
-      <div class="commercial"><input type="checkbox" name="commercial" value="commercial" id="commercial"><label for="commercial">Commercial</label>
+      <div class="commercial flex align-items-center">
+        <input type="checkbox" name="application" value="commercial" id="commercial"><label for="commercial">Commercial</label>
       </div>
-      <div class="floor-and-deck"><input type="checkbox" name="decking" value="decking" id="decking"><label for="decking">Decking</label>
+      <div class="floor-and-deck flex align-items-center">
+        <input type="checkbox" name="application" value="decking" id="decking"><label for="decking">Decking</label>
       </div>
     </div>
   </fieldset>
