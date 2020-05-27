@@ -33,13 +33,13 @@ MidSouth Coatings is pleased to accept personal checks, all major credit cards, 
   <fieldset id="application">
     <div class="flex">
       <div class="residential flex flex-mobile align-items-center">
-        <input type="checkbox" name="residential" value="true" id="residential" ><label for="residential">Residential</label>
+        <input type="checkbox" name="application" value="residential" id="residential" ><label for="residential">Residential</label>
       </div>
       <div class="commercial flex flex-mobile align-items-center">
-        <input type="checkbox" name="commercial" value="true" id="commercial"><label for="commercial">Commercial</label>
+        <input type="checkbox" name="application" value="commercial" id="commercial"><label for="commercial">Commercial</label>
       </div>
       <div class="floor-and-deck flex flex-mobile align-items-center">
-        <input type="checkbox" name="decking" value="true" id="decking"><label for="decking">Decking</label>
+        <input type="checkbox" name="application" value="decking" id="decking"><label for="decking">Decking</label>
       </div>
     </div>
   </fieldset>
