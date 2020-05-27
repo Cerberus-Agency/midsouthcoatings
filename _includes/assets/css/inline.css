@@ -744,6 +744,7 @@ a.request-quote[href]:hover {
 
 	.hours {
 		font-size: .7em;
+		min-width: 200px;
 	}
 
 	.desktop-menu {
