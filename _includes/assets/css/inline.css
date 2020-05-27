@@ -343,6 +343,7 @@ fieldset {
 
 fieldset div div {
 	flex-basis: 33%;
+	margin-bottom: .25em;
 }
 
 input {
