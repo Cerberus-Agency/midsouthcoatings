@@ -20,7 +20,8 @@ MidSouth Coatings is pleased to accept personal checks, all major credit cards, 
 
 <div class="grid-container contact">
 <div class="left">
-<form name="contact" method="POST" netlify>
+<!-- <form name="contact" method="POST" netlify> -->
+  <form name="contact" method="POST" action="/thank-you" netlify>
   <label for="name">Name</label>
   <input type="text" name="name" id="name" autocomplete="name" placeholder="Name" title="Please enter your name" required>
   <label for="email">Email</label>
@@ -29,14 +30,17 @@ MidSouth Coatings is pleased to accept personal checks, all major credit cards, 
   <input type="phone" name="phone" id="phone" autocomplete="phone" placeholder="Phone #" title="Phone #" required>
   <label for="message">Message</label>
   <textarea name="message" id="message" placeholder="Message" rows="7" required></textarea>
-<!--   <fieldset name="application">
-    <input type="checkbox" name="residential" value="residential" id="residential" >
+  <fieldset name="application" id="application">
+    <div class="grid-container">
+      <div class="residential"><input type="checkbox" name="residential" value="residential" id="residential" >
       <label for="residential">Residential</label>
-    <input type="checkbox" name="commercial" value="commercial" id="commercial">
-      <label for="commercial">Commercial</label>
-    <input type="checkbox" name="decking" value="decking" id="decking">
-      <label for="decking">Decking</label>
-  </fieldset> -->
+      </div>
+      <div class="commercial"><input type="checkbox" name="commercial" value="commercial" id="commercial"><label for="commercial">Commercial</label>
+      </div>
+      <div class="floor-and-deck"><input type="checkbox" name="decking" value="decking" id="decking"><label for="decking">Decking</label>
+      </div>
+    </div>
+  </fieldset>
   <!-- <input type="hidden" name="subject" value="Form submission from midsouthcoatings.com contact form: {{name}} {{email}}"> -->
   <button type="submit" name="submit">Submit</button>
 </form>
