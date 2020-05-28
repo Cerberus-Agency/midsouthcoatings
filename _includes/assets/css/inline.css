@@ -987,6 +987,13 @@ a.request-quote[href]:hover {
 	select {
 		width: 18%;
 	}
+
+	button {
+		float: right;
+	    font-weight: 700;
+	    text-transform: uppercase;
+	    width: 14%;
+	}
 	
 }
 
