@@ -25,12 +25,14 @@ $(document).ready(function(){
 
     if($target.hasClass('active')){
        $target.removeClass('active').slideUp();
+       $this.removeClass('active');
        return false;
     } else {
 
     if(!$target.hasClass('active')){
        allPanels.removeClass('active').slideUp();
        $target.addClass('active').slideDown();
+       $this.addClass('active');
     }
     return false;
     }
@@ -38,9 +40,9 @@ $(document).ready(function(){
 });
 
 $(document).on('change', '#palette-selector', function() {
-        var category = $(this).val();
-        console.log(category);
-        $.get('/palettes/' + category + '/index.html', function(data) {
-            $('#results').html(data);
-        });
+    var category = $(this).val();
+    console.log(category);
+    $.get('/palettes/' + category + '/index.html', function(data) {
+        $('#results').html(data);
     });
+});
