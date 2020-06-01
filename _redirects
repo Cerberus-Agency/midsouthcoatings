@@ -1,0 +1,14 @@
+# Redirect with a 301
+/request-a-free-quote       		/contact              								301
+/cool-walls  						/difference           								301
+/coolwall-colors					/color-chart										301
+/residential-painting-services		/applications/residential-painting-services			301
+/deck-coating						/applications/floor-and-deck						301
+/mid-south-coating-vs-paint			/difference											301
+/benefits-of-mid-south-coatings/	/difference											301
+
+# Show a custom 404 for this path
+# /ecommerce    /store-closed  404
+
+# Rewrite a path
+# /pass-through /index.html    200
