@@ -21,7 +21,7 @@ MidSouth Coatings is pleased to accept personal checks, all major credit cards, 
 <div class="grid-container contact">
 <div class="left">
 <!-- <form name="contact" method="POST" netlify> -->
-  <form name="contact" method="POST" action="/thank-you" netlify>
+  <form name="contact" method="POST" action="/thank-you/" netlify>
   <label for="name">Name</label>
   <input type="text" name="name" id="name" autocomplete="name" placeholder="Name" title="Please enter your name" required>
   <label for="email">Email</label>
