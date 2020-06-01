@@ -2,6 +2,14 @@
   publish = "_site"
   command = "eleventy"
 
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+ 
+  [plugins.inputs]
+  buildDir = "_site"
+  exclude = [
+    '_site/admin'
+  ]
 
 # Branch deploy context:
 # All deploys that are not from a pull/merge request
