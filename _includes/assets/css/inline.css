@@ -856,7 +856,7 @@ a.request-quote[href]:hover {
 	}
 
 	.page.page__contact h1, .page.page__thank-you h1 {
-		margin: 1em 0;
+		margin: 3em 0 1em;
 	}
 
 	.page h2 {
