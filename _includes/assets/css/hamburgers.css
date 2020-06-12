@@ -43,7 +43,7 @@ button.hamburger {
 
 .hamburger-box {
   width: 40px;
-  height: 24px;
+  height: 100px;
   display: inline-block;
   position: relative; 
 }
