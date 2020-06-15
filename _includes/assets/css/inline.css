@@ -266,7 +266,7 @@ main {
 nav.header {
 	background-color: white;
 	position: absolute;
-	top: 7em;
+	top: 8em;
 	padding: 1em;
 	transform: translate(-110%, -1px);
 	transition: all .5s;
@@ -279,7 +279,7 @@ nav.header {
 
 nav.header.is-active {
 	transform: translate(0, -1px);
-	width: 35%;
+	width: 28%;
 }
 
 nav.header ul {
@@ -698,9 +698,9 @@ a.request-quote[href]:hover {
 
 	nav.header {
 		position: absolute;
-		top: 9em;
+		top: 8em;
 		left: 0;
-		padding: 8em;
+		padding: 4em;
 		transform: translateX(-130%);
 		transition: all .5s;
 		width: 100%;
