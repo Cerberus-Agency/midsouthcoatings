@@ -655,6 +655,13 @@ a.request-quote[href]:hover {
 		display: none;
 	}
 
+	.hamburger-box {
+  width: 40px;
+  height: 100px;
+  display: inline-block;
+  position: relative; 
+}
+
 	.desktop {
 		display: block;
 	}

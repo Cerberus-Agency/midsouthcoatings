@@ -64,4 +64,5 @@ and (orientation : portrait) {
 		transform: translate(0, -1px);
 		width: 100%;
 	}
+	
 }
