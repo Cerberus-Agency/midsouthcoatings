@@ -19,6 +19,10 @@ and (orientation : portrait) {
 	.linebreak {
 		display: inline;
 	}
+	nav.header.is-active {
+		transform: translate(0, -1px);
+		width: 100%;
+	}
 
 }
 
@@ -45,4 +49,19 @@ and (orientation : portrait) {
 		display: inline;
 	}
 
+	nav.header.is-active {
+		transform: translate(0, -1px);
+		width: 100%;
+	}
+}
+
+@media only screen 
+and (min-device-width : 300px) 
+and (max-device-width : 767px) 
+and (orientation : portrait) { 
+	
+	nav.header.is-active {
+		transform: translate(0, -1px);
+		width: 100%;
+	}
 }
