@@ -16,7 +16,7 @@ eleventyNavigation:
 To contact us, or to schedule a free in-home consultation, call <a href="tel:8558282683">(855) 828-2683</a>, email <a href="mailto:kevin@midsouthcoatings.com?subject=Inquiry from https://midsouthcoatings.com">kevin@midsouthcoatings.com</a>, or complete the form.
 </p>
 
-# ASK ABOUT OUR EASY<span class="linebreak"></span> FINANCE OPTIONS.
+# ASK ABOUT OUR EASY FINANCE OPTIONS.
 
 <p class="contact-adjust">
 MidSouth Coatings is pleased to accept personal checks, all major credit cards, or cash payments. We also offer convenient finance options, including 12 months, same as cash. Give us a call to discuss which options work best for you.
