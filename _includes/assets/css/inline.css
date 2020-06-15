@@ -293,7 +293,8 @@ nav.header li a[href]:hover {
 }
 
 nav.header li a[data-current="current item"] {
-	background-color: orange;
+	background-color: var(--primary);
+	color: white;
 }
 
 nav.header li ul {
@@ -312,7 +313,7 @@ footer {
 
 footer img.logo {
 	height: 60px;
-	margin: 0 0 2em;
+	margin: 0 2em 2em 0;
 }
 
 nav.footer ul {
