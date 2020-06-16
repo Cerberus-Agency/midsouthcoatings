@@ -283,7 +283,7 @@ nav.header {
 
 nav.header.is-active {
 	transform: translate(0, -1px);
-	width: 27.5em;
+	width: 28em;
 }
 
 
@@ -708,28 +708,23 @@ a.request-quote[href]:hover {
 	}
 
 	nav.header {
-		position: fixed;
+		position: absolute;
 		top: 9em;
 		left: 0;
 		padding: 1em 1em 1em 2em;
 		transform: translateX(-130%);
 		transition: all .5s;
-		width: 30em;
+		width: 24em;
 		-webkit-box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.25);
 		-moz-box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.25);
 		box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.25);
 	}
 
 	nav.header.is-active {
-<<<<<<< HEAD
-		transform: translateX(0%); /* this should be 0, this is a temp fix...he said */
-		overflow-y: auto;
-		overflow-x: hidden;
-=======
 		transform: translateX(0%);
-		overflow: scroll;
->>>>>>> 715a7857467cae8e417bd8373f30ee57ed9ab0c5
-		height: 60%;
+		/* overflow-x: hidden;
+		overflow-y: auto; */
+		height: 550px;
 	}
 
 	/* nav.header::-webkit-scrollbar {
