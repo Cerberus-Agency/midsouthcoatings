@@ -60,6 +60,8 @@ h2 {
 	display: inline;
 	position: relative;
 	top: -6.5em;
+	color: var(--primary);
+	font-weight: bold;
 }
 
 #pros-photo{
