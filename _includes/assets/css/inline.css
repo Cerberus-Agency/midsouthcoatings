@@ -283,7 +283,7 @@ nav.header {
 
 nav.header.is-active {
 	transform: translate(0, -1px);
-	width: 30em;
+	width: 27.5em;
 }
 
 
@@ -303,7 +303,7 @@ nav.header li:has(> ul) {
 nav.header li a {
 	font-family: 'Tenor Sans', sans-serif;
 	color: black;
-	/* padding: .25em .5em; */
+	padding: .25em .25em;
 	text-transform: uppercase;
 }
 
@@ -326,7 +326,7 @@ nav.header li a[data-current="current item"] {
 
 nav.header li ul {
 	display: none;
-	margin-left: 1em;
+	/* margin-left: 1em; */
 }
 
 /****** FOOTER ******/
@@ -722,13 +722,14 @@ a.request-quote[href]:hover {
 
 	nav.header.is-active {
 		transform: translateX(0%); /* this should be 0, this is a temp fix...he said */
-		overflow: scroll;
+		overflow-y: auto;
+		overflow-x: hidden;
 		height: 60%;
 	}
 
-	nav.header::-webkit-scrollbar {
+	/* nav.header::-webkit-scrollbar {
 		display: none;
-	  }
+	  } */
 
 	.flex {
 		display: flex;
@@ -764,7 +765,7 @@ a.request-quote[href]:hover {
 
 	nav.header li ul {
 	    display: block;
-	    margin-left: 1em;
+	    /* margin-left: 1em; */
 	}
 
 	nav.header li ul li a {
