@@ -712,7 +712,7 @@ a.request-quote[href]:hover {
 	}
 
 	nav.header.is-active {
-		transform: translateX(0%); /* this should be 0, this is a temp fix...he said */
+		transform: translateX(0%);
 		overflow: scroll;
 		height: 60%;
 	}
