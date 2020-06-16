@@ -525,7 +525,7 @@ select {
 .hero.hero__testimonials main h1 span, .hero.hero__testimonials-g4 main h1 span {
 	display: block;
 	font-family: "Roboto", sans-serif;
-	font-size: .5em;
+	font-size: .8em;
 	font-weight: 300;
 	margin-top: .5em;
 	text-shadow: none;
@@ -997,13 +997,13 @@ a.request-quote[href]:hover {
 
 	.pullquote span {
 		font-family: "Roboto", sans-serif;
-		font-size: .6rem;
+		font-size: 1rem;
 		font-weight: 700;
 	}
 
 	.pullquote span.stars {
 		color: var(--stars);
-		font-size: .35em;
+		font-size: .8em;
 		letter-spacing: .35em;
 	}
 
