@@ -10,7 +10,7 @@ eleventyNavigation:
 
 ---
 
-# FOR [RESIDENTIAL](/applications/residential) OR [COMMERCIAL](/applications/commercial) APPLICATIONS, <span class="linebreak"></span>COOLWALL<sup>®</sup> REDUCES COOLING COSTS IN ALL COLORS.
+# FOR RESIDENTIAL OR COMMERCIAL APPLICATIONS, <span class="linebreak"></span>COOLWALL<sup>®</sup> REDUCES COOLING COSTS IN ALL COLORS.
 
 <div class="grid-container">
 <div class="left">

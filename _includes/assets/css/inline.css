@@ -94,7 +94,7 @@ a[href]:not(:hover) {
 }
 
 .link-subsection + br {
-  	display; none;
+  	display: none;
 }
 
 small {
@@ -281,11 +281,12 @@ nav.header {
 
 nav.header.is-active {
 	transform: translate(0, -1px);
-	width: 28%;
+	width: 30em;
+	height: 70%;
 }
 
+
 nav.header ul {
-	padding: 0;
 	list-style: none;
 }
 
@@ -658,10 +659,10 @@ a.request-quote[href]:hover {
 	}
 
 	.hamburger-box {
-  width: 40px;
-  height: 100px;
-  display: inline-block;
-  position: relative; 
+ 		width: 40px;
+		height: 100px;
+ 		display: inline-block;
+  		position: relative; 
 }
 
 	.desktop {
@@ -699,13 +700,13 @@ a.request-quote[href]:hover {
 	}
 
 	nav.header {
-		position: absolute;
+		position: fixed;
 		top: 9em;
 		left: 0;
-		padding: 4em;
+		padding: 1em 1em 1em 2em;
 		transform: translateX(-130%);
 		transition: all .5s;
-		width: 30%;
+		width: 30em;
 		-webkit-box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.25);
 		-moz-box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.25);
 		box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.25);
@@ -713,7 +714,12 @@ a.request-quote[href]:hover {
 
 	nav.header.is-active {
 		transform: translateX(0%); /* this should be 0, this is a temp fix...he said */
+		overflow: scroll;
 	}
+
+	nav.header::-webkit-scrollbar {
+		display: none;
+	  }
 
 	.flex {
 		display: flex;
@@ -848,7 +854,8 @@ a.request-quote[href]:hover {
 	}
 
 	.hero.hero__applications main h1 {
-	    padding: 4vh 0 0 4vw; 
+		padding: 4vh 0 0 4vw; 
+		top: 2em;
 	    /* headline is "FOR RESIDENTIAL OR COMMERCIAL APPLICATIONS, COOLWALL® REDUCES COOLING COSTS IN ALL COLORS. 
 	    --long headline that prints over a wood pattern, it's going to be wrong about half the time */
 	}
