@@ -721,9 +721,14 @@ a.request-quote[href]:hover {
 	}
 
 	nav.header.is-active {
+<<<<<<< HEAD
 		transform: translateX(0%); /* this should be 0, this is a temp fix...he said */
 		overflow-y: auto;
 		overflow-x: hidden;
+=======
+		transform: translateX(0%);
+		overflow: scroll;
+>>>>>>> 715a7857467cae8e417bd8373f30ee57ed9ab0c5
 		height: 60%;
 	}
 
