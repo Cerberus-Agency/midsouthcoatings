@@ -76,6 +76,7 @@ h2 {
 a[href],
 a[href]:visited {
 	color: var(--primary);
+	/* color: white; */
 	font-weight: 700;
 }
 
@@ -266,7 +267,8 @@ main {
 /******* HEADER NAV *******/
 
 nav.header {
-	background-color: white;
+	/* background-color: white; */
+	background-color: var(--primary);
 	position: absolute;
 	top: 8em;
 	padding: 1em;
@@ -307,12 +309,15 @@ nav.header li a {
 
 nav.header li a[href] {
 	text-decoration: none;
+	color: white;
 	transition: all .2s ease;
 }
 
 nav.header li a[href]:hover {
-	background: var(--primary);
-	color: white;
+	/* background: var(--primary);
+	color: white; */
+	background: white;
+	color: var(--primary);
 }
 
 nav.header li a[data-current="current item"] {
@@ -578,6 +583,10 @@ nav a.mobile.request-quote {
 	font-size: 1em;
 	margin: 0;
 }
+/* CHANGED */
+
+
+
 
 a.request-quote[href]:hover {
 	background: var(--primary);
