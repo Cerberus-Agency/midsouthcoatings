@@ -282,7 +282,6 @@ nav.header {
 nav.header.is-active {
 	transform: translate(0, -1px);
 	width: 30em;
-	height: 70%;
 }
 
 
@@ -715,6 +714,7 @@ a.request-quote[href]:hover {
 	nav.header.is-active {
 		transform: translateX(0%); /* this should be 0, this is a temp fix...he said */
 		overflow: scroll;
+		height: 60%;
 	}
 
 	nav.header::-webkit-scrollbar {
