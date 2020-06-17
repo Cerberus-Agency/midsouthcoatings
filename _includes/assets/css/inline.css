@@ -57,8 +57,6 @@ h2 {
 
 #sub-head{
 	padding-left: 1.3em;
-	/* text-align: inherit; */
-	/* display: inline; */
 	position: relative;
 	color: var(--primary);
 	font-weight: bold;
