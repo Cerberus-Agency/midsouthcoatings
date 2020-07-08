@@ -50,6 +50,9 @@ MidSouth Coatings is pleased to accept personal checks, all major credit cards, 
   <!-- <input type="hidden" name="subject" value="Form submission from midsouthcoatings.com contact form: {{name}} {{email}}"> -->
   <button type="submit" name="submit">Submit</button>
 </form>
+
+<script async src='https://tag.simpli.fi/sifitag/79cb3630-a292-0138-301c-06abc14c0bc6'></script>
+
 </div>
 <div class="right">
 <iframe class="mobile" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3455.2218015623844!2d-90.18875038488588!3d30.00178698189777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8620b05f5b97cd3d%3A0x23364c4e2435db46!2s4636%20Sanford%20St%2C%20Metairie%2C%20LA%2070006!5e0!3m2!1sen!2sus!4v1587922959260!5m2!1sen!2sus" width="100%" height="480" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
