@@ -5,7 +5,7 @@ support_files
 msc-ads/*
 !msc-ads/MSC-300x250/
 !msc-ads/msc-300x250/
-
+!msc-ads/msc-728x90/
 # Local Netlify folder
 .netlify
 .DS_Store
