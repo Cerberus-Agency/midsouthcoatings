@@ -3,7 +3,7 @@ node_modules/
 package-lock.json
 support_files
 msc-ads/*
-!msc-ads/MSC-300x250/
+!msc-ads/msc-300x250/
 
 # Local Netlify folder
 .netlify
