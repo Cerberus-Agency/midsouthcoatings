@@ -76,8 +76,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
   eleventyConfig.addPassthroughCopy("_redirects");
-  eleventyConfig.addPassthroughCopy("msc-ads/Dummy-MSC-Ad/");
-  eleventyConfig.addPassthroughCopy("msc-ads/dummy-msc-ad/");
+  eleventyConfig.addPassthroughCopy("msc-ads/MSC-30x250/");
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
