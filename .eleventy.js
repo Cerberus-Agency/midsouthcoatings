@@ -80,6 +80,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("msc-ads/msc-728x90/");
   eleventyConfig.addPassthroughCopy("msc-ads/msc-300x600/");
   eleventyConfig.addPassthroughCopy("msc-ads/msc-160x600/");
+  eleventyConfig.addPassthroughCopy("msc-ads/msc-300x250-revision01/");
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
