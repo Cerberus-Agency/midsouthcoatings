@@ -1050,7 +1050,7 @@ a.request-quote[href]:hover {
 		float: right;
 	    font-weight: 700;
 	    text-transform: uppercase;
-	    width: 14%;
+	    width: 18%;
 	}
 	
 }
@@ -1075,4 +1075,44 @@ a.request-quote[href]:hover {
 	    margin-left: -1.5em;
 	}
 }
+
+/****** REVIEWS ******/
+
+.reviews p {
+	font-size: .9em;
+	line-height: 1.3;
+}
+
+.hero .content .reviews p.pullquote {
+	font-family: "Tenor Sans", sans-serif;
+	font-size: 2rem;
+	line-height: 1.3;
+	margin-top: 1em;
+}
+
+.pullquote span {
+	color: var(--primary);
+	font-family: "Roboto", sans-serif;
+	font-size: 1rem;
+}
+
+.stars {
+	color: var(--stars);
+}
+
+.name-review {
+	color: var(--primary);
+	font-weight: bold;
+}
 	
+#quote-1 {
+	margin-top: 40%;
+}
+
+#quote-2 {
+	margin-top: 80%;
+}
+
+#quote-3 {
+		margin-top: 120%;
+}
